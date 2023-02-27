@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://livingtogether.xyz
 
 languageCode: en-us
-title: "John's Blog"
+title: "LivingTogether"
 
 # Use Hugo modules to add theme
 module:
@@ -21,8 +21,8 @@ languages:
   en:
     languageName: English
     weight: 1
-  bn:
-    languageName: বাংলা
+  ko:
+    languageName: 한국어
     weight: 3
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
@@ -62,7 +62,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/JonathanDolley/livingtogether.xyz.2
   # Default branch of your Git repo
   gitBranch: main
 
@@ -108,7 +108,7 @@ params:
 
     # Enable & configure "Notes" features
     notes:
-      enable: true
+      enable: false
 
     # Enable comment feature. There, should be only one of them.
     comment:

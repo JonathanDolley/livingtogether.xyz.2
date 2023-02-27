@@ -1,0 +1,77 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: 지속가능한 먹거리체계를 향한 연대의 길로서 한살림
+# your company information
+company:
+  name: 
+  url: 
+
+
+# a summary about you
+summary: '[유럽연합의 지원을 받아](https://ec.europa.eu/research/mariecurieactions/) [모심과살림연구소](http://mosim.or.kr/)와 [서섹스대학](https://www.sussex.ac.uk/business-school/people-and-departments/spru)이 협력하여, 한국 협동조합 먹거리 운동에서 한살림의 역할과 한살림 자체에 대해 연구하는 3년간의 프로젝트를 맡았다. 연구원: [Dr Jonathan Dolley](https://profiles.sussex.ac.uk/p133363-jonathan-dolley) 조나단 돌리 박사 (영국 서섹스대학 연구원/ 모심과살림연구소 교환연구원). 이 프로젝트의 3년 동안 조나단 돌리 박사가 한살림에 관해 연구하고 책을 쓰기 위해 프로젝트에 지원했고, 모심과살림연구소와 협력하여 한살림의 경험이 미래 먹거리체계를 변화시키려는 다른 협동조합운동에 어떤 시사점을 줄 수 있는지 조사하기로 결정했다. 이 프로젝트의 제목은 ‘함께 살기: 지속가능한 먹거리체계를 향한 연대의 길로서 한살림’이라고 지었다. 제목을 이렇게 지은 이유는 ‘지속가능한’ 먹거리체계가 사람들 서로 간에, 그리고 사람과 자연이 상호 유익한 공동체로 함께 살고 함께 번영할 수 있게 해주는 개념이라고 생각하기 때문이다. 이 연구의 목표는 산업적 모델로부터 벗어나 더 지속가능하고 더 공정한 미래를 향해 우리 먹거리체계를 전환하는 노력을 기울이는 일환으로써 한살림의 경험을 연구하고 영국과 유럽연합의 다른 협동조합 조직 및 운동에 그 시사점을 공유하는 것이다.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "j.dolley@sussex.ac.uk"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/LT_MSCA_Project"
+
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/livingtogether_msca"
+
+resourceLinks:
+- title: "온라인 책"
+  url: "https://book.livingtogether.xyz"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+badges:
+- type: soft-skill-indicator
+  name: Sustainability
+  percentage: 100
+  color: orange
+
+- type: soft-skill-indicator
+  name: Solidarity
+  percentage: 100
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Eco-philosophy
+  percentage: 100
+  color: "#82E0AA"
+
+- type: soft-skill-indicator
+  name: Cooperative
+  percentage: 100
+  color: blue
+
+- type: soft-skill-indicator
+  name: Agro-ecology
+  percentage: 100
+  color: green
+
+- type: soft-skill-indicator
+  name: Inclusion
+  percentage: 100
+  color: pink
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

@@ -1,0 +1,17 @@
+# some information about you
+name: "LivingTogether (함께 살기)"
+nickname: "LivingTogether(함께 살기)"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: ""
+image: "images/author/home.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "j.dolley@sussex.ac.uk"
+  github: https://github.com/JonathanDolley
+  linkedin: https://www.linkedin.com/in/jonathandolley/
+
+# some summary about what you do
+summary:
+  - 유럽연합 마리 퀴리 연구지원 프로그램
+  - 지속가능한 먹거리체계를 향한 연대의 길로서 한살림
+
