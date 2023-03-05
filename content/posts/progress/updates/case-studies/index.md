@@ -12,7 +12,19 @@ tags: ["solidarity", "cooperative"]
 categories: ["Basic"]
 ---
 
-Having done several interviews with Hansalim directors, activists and producers in and around Seoul, Gyeongi (greater Seoul) and Paju I am starting on some regional case studies in Busan and Jeju.
+Here is a brief update on the fieldwork.
+
+## Seoul and surrounds
+
+Since September 2022 I have been interviewing members of Hansalim in and around Seoul, Gyeongi (greater Seoul) and some of the surrounding provinces north and south of the capital including Paju, Goesan, Cheongju and Asan.
+I have spoken with directors of some of Hansalim's consumer co-operatives and producer alliances 13 regional as well as activists and producers.
+
+Throughout this time I have been reading about the co-operative movement in Korea and about Hansalim's history and philosophy.
+I have also been meeting regularly with researchers from Hansalim's Mosim and Salim Research Center and an independent Korean researcher to discuss what I am learning and to dialogue over different interpretations and narratives around Hansalim as a co-operative and a social movement.
+
+These initial explorations have been written up and will be submitted to journals shortly and as soon as I am able I will be writing up a draft of the first book chapter.
+
+In the mean time I am starting on some regional case studies in Busan and Jeju.
 
 ## Busan
 
