@@ -17,9 +17,10 @@ math: false
 
 ## My role
 
-I am a Research Fellow at the Science Policy Research Unit (SPRU), University of Sussex.
-I am the recipient of a Marie Sklodowska-Curie Global Fellowship which is funding me to conduct full time research for three years.
-My job title doesn't give much away so let me tell you a bit of my story. 
+I am a Research Fellow at the [Science Policy Research Unit (SPRU)](https://www.sussex.ac.uk/business-school/people-and-departments/spru), University of Sussex and a Fellow of the Sussex Sustainability Research Programme ([SSRP](https://www.sussex.ac.uk/research/centres/sussex-sustainability-research-programme/)).
+You can find a brief bio on the [SSRP website.](xhttps://www.sussex.ac.uk/research/centres/sussex-sustainability-research-programme/ssrp-perspectives/early-career-stories/jonathan-dolley)
+In 2021 I received a Marie Sklodowska-Curie Global Fellowship which is funding me to conduct full time research for three years with the first two spent in South Korea on secondment to the [Mosim and Salim Research Center](http://mosim.or.kr/).
+My job title doesn't give much away so let me tell you a bit of my story.
 
 ## Early research
 
@@ -38,7 +39,7 @@ Seeing their astonishing economic success accompanied by positive environmental 
 
 ## The Fellowship
 
-After a few brief detours which you can read a bit about on my [University profile page](https://profiles.sussex.ac.uk/p133363-jonathan-dolley) I am now fulfilling that goal of exploring exactly that question with colleagues at the [Mosim and Salim Research Institute](http://mosim.or.kr) which is the research center of the [Hansalim Federation](http://www.hansalim.or.kr) ([Hansalim's english website](http://eng.hansalim.or.kr/)) in South Korea - one of the largest multi-stakeholder organic food co-operatives in the world.
+After a few brief detours I am now fulfilling that goal of exploring exactly that question with colleagues at the [Mosim and Salim Research Institute](http://mosim.or.kr) which is the research center of the [Hansalim Federation](http://www.hansalim.or.kr) ([Hansalim's english website](http://eng.hansalim.or.kr/)) in South Korea - one of the largest multi-stakeholder organic food co-operatives in the world.
 
 So I came to South Korea to spend a few months improving my Korean language skills.
 Then I got stuck into learning about Hansalim and interviewing consumer members, directors, producers and employees to get different perspectives on Hansalim's history and its vast array of activities.
