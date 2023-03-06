@@ -8,6 +8,9 @@ menu:
     identifier: cases
     parent: updates
     weight: 20
+author:
+  name: Jonathan Dolley
+  image: /images/author/jdolley.png
 tags: ["solidarity", "cooperative"]
 categories: ["Basic"]
 ---
