@@ -38,7 +38,7 @@ Seeing their astonishing economic success accompanied by positive environmental 
 
 ## The Fellowship
 
-After a few brief detours which you can read a bit about on my [University profile page](https://profiles.sussex.ac.uk/p133363-jonathan-dolley) I am now fulfilling that goal of exploring exactly that question with colleagues at the [Mosim and Salim Research Institute](http://mosim.or.kr) which is the research center of the [Hansalim Federation](http://www.hansalim.or.kr) in South Korea - one of the largest multi-stakeholder organic food co-operatives in the world.
+After a few brief detours which you can read a bit about on my [University profile page](https://profiles.sussex.ac.uk/p133363-jonathan-dolley) I am now fulfilling that goal of exploring exactly that question with colleagues at the [Mosim and Salim Research Institute](http://mosim.or.kr) which is the research center of the [Hansalim Federation](http://www.hansalim.or.kr) ([Hansalim's english website](http://eng.hansalim.or.kr/)) in South Korea - one of the largest multi-stakeholder organic food co-operatives in the world.
 
 So I came to South Korea to spend a few months improving my Korean language skills.
 Then I got stuck into learning about Hansalim and interviewing consumer members, directors, producers and employees to get different perspectives on Hansalim's history and its vast array of activities.
