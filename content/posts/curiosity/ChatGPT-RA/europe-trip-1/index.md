@@ -6,8 +6,11 @@ menu:
   sidebar:
     name: Europe trip - when?
     identifier: europe-trip-1
-    parent: ChatGPT-RA
+    parent: chatgpt-ra
     weight: 10
+author:
+  name: Jonathan Dolley
+  image: /images/author/jdolley.png
 tags: ["ChatGPT", "AI"]
 categories: ["Basic"]
 ---
