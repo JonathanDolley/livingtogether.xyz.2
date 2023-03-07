@@ -1,6 +1,6 @@
 ---
 title: "Hansalim's structure and activities"
-date: 2023-03-05T09:00:00+09:00
+date: 2023-03-07T17:00:00+09:00
 description: A visualization of the structure of Hansalim
 menu:
   sidebar:
