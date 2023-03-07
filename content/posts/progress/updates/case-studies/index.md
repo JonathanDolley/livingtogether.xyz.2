@@ -37,7 +37,7 @@ They apparently have a stronger emphasis on relationships with local farmers whi
 
 I will share some photos and reflections from the trip on this blog in the weeks following.
 
-## Juju
+## Jeju
 
 Jeju is an interesting example of a localized multi-stakeholder structure which I expect to have closer interaction between consumers and producers because it is a sub-tropical island which is more difficult to integrate with the central distribution system.
 Jeju is also known for their emphasis on natural farming techniques and multi-farm circulating farming systems.
