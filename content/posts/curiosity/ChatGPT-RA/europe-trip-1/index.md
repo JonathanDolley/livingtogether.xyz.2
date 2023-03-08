@@ -1,7 +1,7 @@
 ---
 title: "Europe trip - best months"
 date: 2023-03-07T23:28:00+09:00
-description: Using ChatGPT to help plan my itenerary
+description: Using ChatGPT to help plan my itinerary
 menu:
   sidebar:
     name: Europe trip - when?
