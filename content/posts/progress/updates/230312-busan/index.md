@@ -7,7 +7,7 @@ menu:
     name: Busan
     identifier: busan
     parent: updates
-    weight: 30
+    weight: 40
 author:
   name: Jonathan Dolley
   image: /images/author/jdolley.png
