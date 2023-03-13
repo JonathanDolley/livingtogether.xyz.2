@@ -52,6 +52,10 @@ socialLinks:
   icon: "fab fa-instagram"
   url: "https://www.instagram.com/livingtogether_msca"
 
+- name: Discord
+  icon: "fab fa-discord"
+  url: "https://discord.gg/ctxT33bhU9"
+
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
