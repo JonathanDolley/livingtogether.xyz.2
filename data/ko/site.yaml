@@ -23,5 +23,5 @@ openGraph:
   title: LivingTogether
   type: website
   description: "Research project website for Living Together - solidarity pathways to sustainable food."
-  image: images/site/homepage.png
+  image: /images/site/homepage.png
   url: https://livingtogether.xyz
