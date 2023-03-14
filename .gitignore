@@ -3,3 +3,4 @@ resources/_gen/assets/*
 node_modules/*
 library/*
 .vscode/*
+public/*
