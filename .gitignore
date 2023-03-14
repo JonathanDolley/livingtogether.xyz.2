@@ -1,4 +1,4 @@
-resources/*
+resources/_gen/*
 node_modules/*
 library/*
 .vscode/*
