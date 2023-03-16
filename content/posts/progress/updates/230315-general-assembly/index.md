@@ -22,7 +22,7 @@ The elected representatives from each cooperative and producers association as w
 
 <br />
 
-{{< imgh src="/posts/230315-general-assembly/hansalim-care-policy.png" alt="Hansalim Care Policy presentation" >}}
+{{< imgh src="/posts/230315-general-assembly/hansalim-care-policy.jpg" alt="Hansalim Care Policy presentation" >}}
 
 <br />
 
@@ -30,19 +30,19 @@ There was a buzz of excitement at the meeting as people greeted each other and c
 
 <br />
 
-{{< imgh src="/posts/230315-general-assembly/friendly-chatting.png" alt="Friendly chatting at the Hansalim General Assembly" >}}
+{{< imgh src="/posts/230315-general-assembly/friendly-chatting.jpg" alt="Friendly chatting at the Hansalim General Assembly" >}}
 
 <br />
 
-There was frequent cheering as the election of a new president and 17 new representatives was announced and they were confirmed by a final vote and welcomed into their new positions.
+There was frequent cheering as the election of a new president and 22 new representatives was announced and they were confirmed by a final vote and welcomed into their new positions.
 
 <br />
 
-{{< imgh src="/posts/230315-general-assembly/new-president.png" alt="Hansalim's new president" >}}
+{{< imgh src="/posts/230315-general-assembly/new-president.jpg" alt="Hansalim's new president" >}}
 
 <br />
 
-{{< imgh src="/posts/230315-general-assembly/directors-speech.png" alt="Welcoming Hansalim's new representatives" >}}
+{{< imgh src="/posts/230315-general-assembly/directors-speech.jpg" alt="Welcoming Hansalim's new representatives" >}}
 
 <br />
 
@@ -54,7 +54,7 @@ One thing that struck me as an outsider was the ratio of men to women among the 
 
 <br />
 
-{{< imgh src="/posts/230315-general-assembly/newly-elected.png" alt="Hansalim's newly elected representatives" >}}
+{{< imgh src="/posts/230315-general-assembly/newly-elected.jpg" alt="Hansalim's newly elected representatives" >}}
 
 <br />
 
