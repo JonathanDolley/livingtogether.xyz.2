@@ -24,7 +24,25 @@ languages:
   ko:
     languageName: 한국어
     weight: 3
-
+  de:
+    languageName: Deutsch
+    weight: 4
+  # fr:
+  #   languageName:  Français
+  #   weight: 5
+  # it:
+  #   languageName:  Italiano
+  #   weight: 6
+  # es:
+  #   languageName:  Español
+  #   weight: 7
+  # zh-cn:
+  #   languageName:  简体
+  #   weight: 8
+  # zh-tw:
+  #   languageName:  繁體
+  #   weight: 9
+  
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
 

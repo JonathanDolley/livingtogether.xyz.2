@@ -1,0 +1,98 @@
+# section information
+section:
+  name: Zeitleiste
+  id: experiences
+  enable: true
+  weight: 10
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Jahr 1
+    url: ""
+    location: Korea
+    # company overview
+    overview: 
+  positions:
+  - designation: Lernen der koreanischen Sprache und Forschungsdesign
+    start: Sep 2021
+    end: Feb 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Intensivsprachkurs Koreanisch.
+    - Gemeinsame Entwicklung des Interviewinstruments mit dem Forschungspartner Mosim.
+    - Ethisches Genehmigungsverfahren mit der Universität von Sussex.
+    - Erste Durchsicht von Hansalims eigener Literatur.
+    start: Feb 2022
+    end: Aug 2022
+    responsibilities:
+    - Durchsicht der Literatur über die koreanische Genossenschaftsbewegung.
+    - Sichtung der Literatur über Offene Genossenschaften und Neuen Genossenschaftswesen.
+    - Regelmäßige Lese- und Diskussionsgruppen mit Mosim-Forschern.
+    - Regelmäßige Diskussionen mit unabhängigen koreanischen Forschern und Zusammenarbeit bei der Erstellung einer gemeinsamen wissenschaftlichen Arbeit.
+    - Interviews mit Mitgliedern von Verbrauchergenossenschaften.
+- company:
+    name: Jahr 2
+    url: 
+    location: Korea
+    overview:
+  positions:
+  - designation: Interviews und Schreiben
+    start: Sep 2022
+    end: Dec 2022
+    responsibilities:
+    - Regelmäßige Gespräche mit unabhängigen koreanischen Forschern und Zusammenarbeit bei der Erstellung einer gemeinsamen wissenschaftlichen Arbeit.
+    - Interviews mit Mitarbeitern der Hansalim Federation.
+    - Interviews mit Mitgliedern regionaler Erzeugerverbände.
+  - designation: Fallstudien und Schreiben von Papieren
+    start: Jan 2023
+    end: Jun 2023
+    responsibilities:
+    - Fallstudie Busan.
+    - Fallstudie Jeju.
+    - Akademisches Schreiben.
+    - Sammeln von persönlichen Erzählungen.
+    - Buchkapitel 1 - 4.
+    - Planung eines Symposiums.
+- company:
+    name: Jahr 3
+    url: 
+    location: UK
+    overview: 
+  positions:
+  - designation: Europa-Tournee - Vernetzung mit kooperativen Praktikern, Aktivisten und Forschern
+    start: Aug 2023
+    end: Oct 2023
+    responsibilities:
+    - 16-27 August - (noch nicht entschieden) Manchester > Stockholm > Berlin
+    - 28.-30. August - Kopenhagen - [Københavns Fødevarefællesskab (KBHFF)](https://kbhff.dk/)
+    - 30. August-September 3 - (noch nicht entschieden) Prag?
+    - 3.-8. September - Wien - [Morgenrot](https://morgenrot.wien/)
+    - Okt - (noch nicht entschieden) München > Florenz > Zürich > Paris > Gent > Brighton
+  - designation: Schreiben
+    start: Oct 2023
+    end: Dec 2023
+    responsibilities:
+    - Verfassen von wissenschaftlichen Arbeiten und Buchkapiteln.
+    - Planung eines Symposiums.
+  - designation: Schreiben & Seminare
+    start: Jan 2024
+    end: May 2024
+    responsibilities:
+    - Verfassen von wissenschaftlichen Arbeiten und Buchkapiteln.
+    - Zusammenarbeit mit Akademikern der Universität Sussex. 
+  - designation: Symposium
+    start: Jun 2024
+    end: Jun 2024
+    responsibilities:
+    - Ein Treffen in Manchester (Vereinigtes Königreich), das Mitgliedern und Vertretern von Hansalim und Mosim die Möglichkeit bot, mit Akademikern und Praktikern aus dem Vereinigten Königreich und Europa zusammenzutreffen und Maßnahmen für eine künftige Zusammenarbeit zu vereinbaren. Arbeitstitel - "Solidarische Wege zu transformativen Lebensmittelsystemen".
+  - designation: Webinar
+    start: Aug 2024
+    end: Aug 2024
+    responsibilities:
+    - Abschließendes Webinar.

@@ -1,0 +1,97 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Hansalim als Modell für solidarische Wege zu nachhaltigen Lebensmittelsystemen.
+# your company information
+company:
+  name: 
+  url: 
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: "Dieses dreijährige Forschungsprojekt ist ein [Marie Skłodowska-Curie Action](https://ec.europa.eu/research/mariecurieactions/) - Global Fellowship unter der Leitung von [Dr. Jonathan Dolley](https://profiles.sussex.ac.uk/p133363-jonathan-dolley) und wird von der [University of Sussex](https://www.sussex.ac.uk/business-school/people-and-departments/spru) und dem [Mosim and Salim Research Institute](http://mosim.or.kr/), Hansalim (Südkorea) betreut. Im Rahmen dieses Projekts untersuche ich die Geschichte der koreanischen Kooperative [Hansalim](http://eng.hansalim.or.kr/), die sich 1986 von einem kleinen Reismarkt am Stadtrand von Seoul zu einer der weltweit größten Kooperativen für ökologische Lebensmittel mit 750.000 Mitgliedern und Produzenten entwickelt hat. Ich möchte herausfinden, welche Lehren aus ihren Erfahrungen für andere Genossenschaftsgruppen und -bewegungen im Vereinigten Königreich und in der EU gezogen werden können, wenn wir uns bemühen, unsere Lebensmittelsysteme weg von industrialisierten Modellen hin zu einer gerechteren und nachhaltigeren Zukunft zu verändern."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "j.dolley@sussex.ac.uk"
+
+#- name: Github
+#  icon: "fab fa-github"
+#  url: "https://www.github.com/example"
+
+#- name: Stackoverflow
+#  icon: "fab fa-stack-overflow"
+#  url: "#"
+
+#- name: LinkedIn
+#  icon: "fab fa-linkedin"
+#  url: "#"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/LT_MSCA_Project"
+
+#- name: Facebook
+#  icon: "fab fa-facebook"
+#  url: "#"
+
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/livingtogether_msca"
+
+- name: Discord
+  icon: "fab fa-discord"
+  url: "https://discord.gg/ctxT33bhU9"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "E-Book"
+  url: "https://book.livingtogether.xyz"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: soft-skill-indicator
+  name: Nachhaltigkeit
+  percentage: 100
+  color: orange
+
+- type: soft-skill-indicator
+  name: Solidarität
+  percentage: 100
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Ökophilosophie
+  percentage: 100
+  color: "#82E0AA"
+
+- type: soft-skill-indicator
+  name: Genossenschaft
+  percentage: 100
+  color: blue
+
+- type: soft-skill-indicator
+  name: Agrarökologie
+  percentage: 100
+  color: green
+
+- type: soft-skill-indicator
+  name: Eingliederung
+  percentage: 100
+  color: pink

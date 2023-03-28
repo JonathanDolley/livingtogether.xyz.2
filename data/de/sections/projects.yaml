@@ -1,0 +1,82 @@
+# section information
+section:
+  name: Ausgänge
+  id: projects
+  enable: true
+  weight: 15
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Akademisch
+  filter: "academic"
+- name: Popular
+  filter: "popular"
+- name: Einsatz
+  filter: "engagement"
+
+# your projects
+projects:
+- name: Paper 1
+  logo: /images/sections/projects/readme.svg
+  role: Author
+  timeline: "March 2022 - Present"
+  url:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Hansalim im Kontext der koreanischen Genossenschaftsbewegung von 1910 bis 2020. Erörterung der Werte und Merkmale der Bewegung im Zusammenhang mit den zeitgenössischen Entwicklungen des 'Neuer Genossenschaftswesen'.  
+  tags: ["academic"]
+
+- name: Paper 2
+  logo: /images/sections/projects/readme.svg
+  role: Author
+  timeline: "March 2023 - Present"
+  url:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Untersuchung der Chancen und Herausforderungen, denen Hansalim als alternatives Lebensmittelsystem gegenübersteht. Analyse von Fallstudien zu verschiedenen Konfigurationen von Lebensmittelsystemen in den verschiedenen Regionen von Hansalim (Großraum Seoul, Busan, Jeju).
+  tags: ["academic"]
+
+- name: Book
+  logo: /images/sections/projects/book-solid.svg
+  role: Author
+  timeline: "March 2023 - Present"
+  url: "https://book.livingtogether.xyz"
+  #url: ""
+  summary: Ein Buch über Hansalim für eine breite Leserschaft. Erzählt die Geschichte von Hansalim und enthält persönliche Geschichten von Genossenschaftsmitgliedern. Analyse des Multi-Stakeholder-Modells von Hansalim als möglicher Weg zu nachhaltigen Lebensmittelsystemen. Erörterung der Verbindungen zwischen der Öko-Philosophie von Hansalim und Ideen für einen umfassenderen sozialen Wandel.
+  tags: ["popular"]
+
+- name: Symposium
+  logo: /images/sections/projects/people-roof-solid.svg
+  role: Organiser
+  timeline: "June 2024"
+  url: ""
+  summary: Eine Gelegenheit für Mitglieder und Vertreter von Hansalim, das Vereinigte Königreich zu besuchen und sich mit gleichgesinnten Praktikern und Akademikern aus ganz Europa zu treffen.
+  tags: ["engagement"]
+
+- name: Netzwerk
+  logo: /images/sections/projects/people-arrows-solid.svg
+  role: Facilitator
+  timeline: "Über das Ende des Projekts hinaus"
+  url: ""
+  summary: Initiierung eines Korea-EU-Netzes von kooperativen Praktikern und Forschern, die mehrere Interessengruppen vertreten.
+  tags: ["engagement"]
+
+# - name: Nocode
+#   logo: /images/sections/projects/no-code.png
+#   role: Nothing
+#   timeline: "Oct 2019 - Dec 2019"
+#   repo: https://github.com/kelseyhightower/nocode
+#   #url: ""
+#   summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+#   tags: ["hobby", "fun"]
+
+# - name: Toha
+#   logo: /images/sections/projects/toha.png
+#   role: Owner
+#   timeline: "Jun 2019 - Present"
+#   repo: https://github.com/hossainemruz/toha
+#   summary: A Hugo theme for personal portfolio.
+#   tags: ["hobby","hugo","theme","professional"]
