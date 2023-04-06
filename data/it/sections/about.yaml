@@ -1,6 +1,6 @@
 # section information
 section:
-  name: About
+  name: Circa
   id: about
   enable: true
   weight: 1
@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Hansalim as a model for solidarity pathways towards sustainable food systems.
+designation: Hansalim come modello di percorsi solidali verso sistemi alimentari sostenibili.
 # your company information
 company:
   name: 
@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'This 3 year research project is a [Marie Skłodowska-Curie Action](https://ec.europa.eu/research/mariecurieactions/) - Global Fellowship led by [Dr Jonathan Dolley](https://profiles.sussex.ac.uk/p133363-jonathan-dolley) and supervised by the [University of Sussex](https://www.sussex.ac.uk/business-school/people-and-departments/spru) and the [Mosim and Salim Research Institute](http://mosim.or.kr/), Hansalim (South Korea). Through this project I am investigating the story of the Korean cooperative, [Hansalim](http://eng.hansalim.or.kr/), which grew from a small rice market on the outskirts of Seoul in 1986 to become one of the worlds largest organic food cooperatives with 750,000 members and producers. I want to find out what lessons their experience holds for other cooperative groups and movements in the UK and EU as we strive to transform our food systems away from industrialized models towards a fairer and more sustainable future.'
+summary: "Questo progetto di ricerca triennale è un [Marie Skłodowska-Curie Action](https://ec.europa.eu/research/mariecurieactions/) - Global Fellowship guidato dal [Dr Jonathan Dolley](https://profiles.sussex.ac.uk/p133363-jonathan-dolley) e supervisionato dalla [University of Sussex](https://www.sussex.ac.uk/business-school/people-and-departments/spru) e dal [Mosim and Salim Research Institute](http://mosim.or.kr/), Hansalim (Corea del Sud). Con questo progetto sto indagando sulla storia della cooperativa coreana [Hansalim] (http://eng.hansalim.or.kr/), che nel 1986 è cresciuta da un piccolo mercato del riso alla periferia di Seoul fino a diventare una delle più grandi cooperative di alimenti biologici del mondo, con 750.000 soci e produttori. Voglio scoprire quali insegnamenti può dare la loro esperienza ad altri gruppi e movimenti cooperativi nel Regno Unito e nell'UE, mentre ci sforziamo di trasformare i nostri sistemi alimentari abbandonando i modelli industrializzati per un futuro più equo e sostenibile."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -67,32 +67,32 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: soft-skill-indicator
-  name: Sustainability
+  name: Sostenibilità
   percentage: 100
   color: orange
 
 - type: soft-skill-indicator
-  name: Solidarity
+  name: Solidarietà
   percentage: 100
   color: yellow
 
 - type: soft-skill-indicator
-  name: Eco-philosophy
+  name: Ecofilosofia
   percentage: 100
   color: "#82E0AA"
 
 - type: soft-skill-indicator
-  name: Cooperative
+  name: Cooperativa
   percentage: 100
   color: blue
 
 - type: soft-skill-indicator
-  name: Agro-ecology
+  name: Agroecologia
   percentage: 100
   color: green
 
 - type: soft-skill-indicator
-  name: Inclusion
+  name: Inclusione
   percentage: 100
   color: pink
 

@@ -27,7 +27,7 @@ projects:
   timeline: "March 2022 - Present"
   url:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Hansalim in the context of the Korean cooperative movement from 1910 to 2020. Discussing the values and features of the movement in connection with contemporary developments in 'New Cooperativism'. 
+  summary: Hansalim nel contesto del movimento cooperativo coreano dal 1910 al 2020. Discutendo i valori e le caratteristiche del movimento in relazione agli sviluppi contemporanei del "Nuovo Cooperativismo". 
   tags: ["academic"]
 
 - name: Paper 2
@@ -36,7 +36,7 @@ projects:
   timeline: "March 2023 - Present"
   url:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Exploring the opportunities and challenges encountered by Hansalim as an alternative food system. Analysing case studies of different food system configurations in Hansalim's various regions (Greater Seoul, Busan, Jeju).
+  summary: Esplorare le opportunità e le sfide incontrate da Hansalim come sistema alimentare alternativo. Analizzare casi di studio di diverse configurazioni del sistema alimentare nelle varie regioni di Hansalim (Grande Seul, Busan, Jeju).
   tags: ["academic"]
 
 - name: Book
@@ -45,7 +45,7 @@ projects:
   timeline: "March 2023 - Present"
   url: "https://book.livingtogether.xyz"
   #url: ""
-  summary: A book about Hansalim for popular readership. Telling the story of Hansalim and featuring personal stories from co-op members. Analysis of Hansalim's multi-stakeholder model as a potential pathway to sustainable food systems. Discussing connections between Hansalim's eco-philosophy and ideas about wider social transformation.
+  summary: Un libro su Hansalim per un pubblico popolare. Racconta la storia di Hansalim e presenta le storie personali dei membri della cooperativa. Analisi del modello multi-stakeholder di Hansalim come potenziale percorso verso sistemi alimentari sostenibili. Discutere le connessioni tra la filosofia ecologica di Hansalim e le idee di una più ampia trasformazione sociale.
   tags: ["popular"]
 
 - name: Symposium
@@ -53,15 +53,23 @@ projects:
   role: Organiser
   timeline: "June 2024"
   url: ""
-  summary: A chance for members and representatives of Hansalim to visit the UK and meet with like-minded practitioners and academics from across Europe.
+  summary: "Una conferenza di un giorno per accademici e attivisti presso la SPRU, Università del Sussex - 'Solidarity Pathways to Transformative Food Systems'"
   tags: ["engagement"]
 
-- name: Network
+- name: Raduno di Manchester
+  logo: /images/sections/projects/handshake-solid.svg
+  role: Organiser
+  timeline: "June 2024"
+  url: ""
+  summary: Un'occasione per i membri e i rappresentanti di Hansalim di visitare il Regno Unito e di incontrare professionisti e accademici di tutta Europa che la pensano allo stesso modo.
+  tags: ["engagement"]
+
+- name: Rete
   logo: /images/sections/projects/people-arrows-solid.svg
   role: Facilitator
-  timeline: "Beyond end of project"
+  timeline: "Oltre la fine del progetto"
   url: ""
-  summary: Initiate a Korea-EU network of multi-stakeholder cooperative practitioners and researchers.
+  summary: Avviare una rete Corea-UE di operatori e ricercatori di cooperative multi-stakeholder.
   tags: ["engagement"]
 
 # - name: Nocode

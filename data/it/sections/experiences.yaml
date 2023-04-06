@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Timeline
+  name: Linea temporale
   id: experiences
   enable: true
   weight: 10
@@ -11,89 +11,94 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Year 1
+    name: Anno 1
     url: ""
-    location: Korea
+    location: Corea
     # company overview
     overview: 
   positions:
-  - designation: Korean Language Learning and Research Design
+  - designation: Apprendimento della lingua coreana e progettazione della ricerca
     start: Sep 2021
     end: Feb 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Intensive Korean language course.
-    - Collaborative interview tool design with research partner Mosim.
-    - Ethical approval process with University of Sussex.
-    - Initial review of Hansalim's own literature.
-  - designation: Literature review and interviews
+    - Corso intensivo di lingua coreana.
+    - Progettazione dello strumento di intervista in collaborazione con il partner di ricerca Mosim.
+    - Processo di approvazione etica con l'Università del Sussex.
+    - Revisione iniziale della letteratura di Hansalim.
+  - designation: Revisione della letteratura e interviste
     start: Feb 2022
     end: Aug 2022
     responsibilities:
-    - Reviewing literature on Korean cooperative movement.
-    - Reviewing literature on Open Cooperatives and New Cooperativism.
-    - Regular reading and discussion group with Mosim researchers.
-    - Regular discussions with independent Korean researcher and collaboration on joint academic paper.
-    - Interviews with members of consumer cooperatives.
+    - Revisione della letteratura sul movimento cooperativo coreano.
+    - Revisione della letteratura sulle cooperative aperte e sul nuovo cooperativismo.
+    - Gruppo di lettura e discussione regolare con i ricercatori Mosim.
+    - Discussioni regolari con ricercatori coreani indipendenti e collaborazione per la stesura di un documento accademico comune.
+    - Interviste con membri di cooperative di consumatori.
 - company:
-    name: Year 2
+    name: Anno 2
     url: 
-    location: Korea
+    location: Corea
     overview:
   positions:
-  - designation: Interviews and writing
+  - designation: Interviste e scrittura
     start: Sep 2022
     end: Dec 2022
     responsibilities:
-    - Regular discussions with independent Korean researcher and collaboration on joint academic paper.
-    - Interviews with employees of the Hansalim Federation.
-    - Interviews with members of regional producer associations.
-  - designation: Case studies and paper writing
+    - Colloqui regolari con un ricercatore coreano indipendente e collaborazione per la stesura di un documento accademico comune.
+    - Interviste con i dipendenti della Federazione Hansalim.
+    - Interviste con i membri delle associazioni regionali di produttori.
+  - designation: Casi di studio e scrittura di documenti
     start: Jan 2023
     end: Jun 2023
     responsibilities:
-    - Busan case study.
-    - Jeju case study.
-    - Academic writing.
-    - Collecting personal narratives.
-    - Book chapers 1 - 4.
-    - Symposium planning.
+    - Studio del caso di Busan.
+    - Studio del caso Jeju.
+    - Scrittura accademica.
+    - Raccolta di narrazioni personali.
+    - Libri 1 - 4.
+    - Pianificazione di simposi.
 - company:
-    name: Year 3
+    name: Anno 3
     url: 
     location: UK
     overview: 
   positions:
-  - designation: Europe Tour - networking with co-operative practitioners, activists and researchers
+  - designation: Tour in Europa - networking con operatori, attivisti e ricercatori cooperativi
     start: Aug 2023
-    end: Oct 2023
+    end: Nov 2023
     responsibilities:
-    - August 16-27 - (not yet decided) Manchester > Stockholm > Berlin
-    - August 28-30 - Copenhagen - [Københavns Fødevarefællesskab (KBHFF)](https://kbhff.dk/)
-    - August 30-September 3 - (not yet decided) Prague?
-    - September 3-8 - Vienna - [Morgenrot](https://morgenrot.wien/)
-    - Oct - (not yet decided) Munich > Florence > Zurich > Paris > Ghent > Brighton
-  - designation: Writing
-    start: Oct 2023
+    - "08.21-08.25 : (non ancora deciso) Stoccolma o Berlino?"
+    - "08.25-09.01 : Copenaghen - [Københavns Fødevarefællesskab (KBHFF)](https://kbhff.dk/), [Roskilde Økologiske Fødevarefællesskab](https://roskildeff.wixsite.com/roeff)"
+    - "09.01-09.09 : Vienna - [Morgenrot](https://morgenrot.wien/)"
+    - "10.15-10.20 : Monaco > Lussemburgo"
+    - "10.20-10.25 : Lipsia - [Kola Leipzig](https://kolaleipzig.de/)"
+    - "10.25-10.29 : Bolzano > Verona > Firenze - [AgroFair Italia](https://www.altromercato.it/)"
+    - "10.29-11.01 : Calabria"
+    - "11.01-11.04 : Sicilia"
+  - designation: Scrittura
+    start: Nov 2023
     end: Dec 2023
     responsibilities:
-    - Writing academic papers and book chapters.
-    - Planning Symposium.
-  - designation: Writing & seminars
+    - Scrivere articoli accademici e capitoli di libri.
+    - Simposio di pianificazione.
+  - designation: Scrittura, seminari, visite
     start: Jan 2024
     end: May 2024
     responsibilities:
-    - Writing academic papers and book chapters.
-    - Engaging with academics at Sussex University. 
-  - designation: Symposium
+    - Scrivere articoli accademici e capitoli di libri.
+    - Collaborare con gli accademici della Sussex University. 
+    - Visitare le cooperative nel Regno Unito, in Francia, in Belgio e nei Paesi Bassi.
+  - designation: Simposio e Raduno
     start: Jun 2024
     end: Jun 2024
     responsibilities:
-    - A gathering in Manchester (UK) providing an opportunity for members and representatives of Hansalim and Mosim reserachers to meet with academics and practitioners from the UK and Europe and to agree action on future collaboration. Working title - "Solidarity pathways to transformative food systems".
+    - "Simposio di un giorno presso la SPRU, Università del Sussex - 'Percorsi solidali per sistemi alimentari trasformativi'"
+    - Incontro di due giorni a Manchester (UK) che offre ai membri e ai rappresentanti dei ricercatori Hansalim e Mosim l'opportunità di incontrare accademici e professionisti del UK e dell'Europa e di concordare azioni di collaborazione futura.
   - designation: Webinar
     start: Aug 2024
     end: Aug 2024
     responsibilities:
-    - Concluding webinar.
+    - Webinar conclusivo.

@@ -30,9 +30,9 @@ languages:
   fr:
     languageName:  Français
     weight: 5
-  # it:
-  #   languageName:  Italiano
-  #   weight: 6
+  it:
+    languageName:  Italiano
+    weight: 6
   # es:
   #   languageName:  Español
   #   weight: 7
