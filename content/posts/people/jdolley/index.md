@@ -18,7 +18,7 @@ math: false
 ## My role
 
 I am a Research Fellow at the [Science Policy Research Unit (SPRU)](https://www.sussex.ac.uk/business-school/people-and-departments/spru), University of Sussex and a Fellow of the Sussex Sustainability Research Programme ([SSRP](https://www.sussex.ac.uk/research/centres/sussex-sustainability-research-programme/)).
-You can find a brief bio on the [SSRP website.](xhttps://www.sussex.ac.uk/research/centres/sussex-sustainability-research-programme/ssrp-perspectives/early-career-stories/jonathan-dolley)
+You can find a brief bio on the [SSRP website.](https://www.sussex.ac.uk/research/centres/sussex-sustainability-research-programme/ssrp-perspectives/early-career-stories/jonathan-dolley)
 In 2021 I received a Marie Sklodowska-Curie Global Fellowship which is funding me to conduct full time research for three years with the first two spent in South Korea on secondment to the [Mosim and Salim Research Center](http://mosim.or.kr/).
 My job title doesn't give much away so let me tell you a bit of my story.
 

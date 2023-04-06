@@ -1,8 +1,8 @@
 ---
-title: 진행
+title: Progrès
 menu:
   sidebar:
-    name: 진행
+    name: Progrès
     identifier: progress
     weight: 10
 ---

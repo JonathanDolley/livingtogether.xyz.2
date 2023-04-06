@@ -50,8 +50,5 @@ Ich hoffe auch, die Vernetzung zwischen Hansalim und anderen kooperativen und ö
 
 Behalten Sie den Abschnitt Veranstaltungen im Blog im Auge, um auf dem Laufenden zu bleiben. Dort finden Sie auch weitere Informationen über das Projekt und die damit verbundene Forschung.
 
-<!-- Greeting! This is an introduction post. This post tests the followings:
-
-- Hero image is in the same directory as the post.
-- This post should be at top of the sidebar.
-- Post author should be the same as specified in `author.yaml` file. -->
+---
+Übersetzt von [DeepL](https://www.deepl.com)
