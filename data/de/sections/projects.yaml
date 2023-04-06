@@ -53,6 +53,14 @@ projects:
   role: Organiser
   timeline: "June 2024"
   url: ""
+  summary: "Eine eintägige Konferenz für Akademiker und Aktivisten an der SPRU, University of Sussex - 'Solidarity Pathways to Transformative Food Systems.'"
+  tags: ["engagement"]
+
+- name: Versammlung in Manchester
+  logo: /images/sections/projects/handshake-solid.svg
+  role: Organiser
+  timeline: "June 2024"
+  url: ""
   summary: Eine Gelegenheit für Mitglieder und Vertreter von Hansalim, das Vereinigte Königreich zu besuchen und sich mit gleichgesinnten Praktikern und Akademikern aus ganz Europa zu treffen.
   tags: ["engagement"]
 

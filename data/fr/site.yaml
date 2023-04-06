@@ -1,0 +1,27 @@
+# Copyright Notice
+copyright: © 2023 Jonathan Dolley.
+
+# A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
+disclaimer: "Ce projet a reçu un financement du programme de recherche et d'innovation Horizon 2020 de l'Union européenne dans le cadre de la convention de subvention Marie Skłodowska-Curie n° 892403."
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: Site web du projet de recherche Living Together - solidarity pathways to sustainable food (Vivre ensemble - voies solidaires vers une alimentation durable). Bourse mondiale Marie Skłodowska-Curie.
+
+# specify the list of custom menus that you want to show in the top navbar.
+# they will be separated by a divider from the main menus.
+# customMenus:
+# - name: Docs
+#   url: https://toha-guides.netlify.app/posts/
+#   # specify whether to hide the menu item from top navbar or not.
+#   hideFromNavbar: true
+#   # specify whether to show the menu item in footer or not.
+#   # if you set it to true, make sure you have set `footer.navigation.customMenus: true` in your config.yaml
+#   showOnFooter: false
+
+# Specify OpenGraph Headers
+openGraph:
+  title: LivingTogether
+  type: website
+  description: "Site web du projet de recherche Living Together - solidarity pathways to sustainable food (Vivre ensemble - voies solidaires vers une alimentation durable)."
+  image: "/images/site/background.jpg"
+  url: https://livingtogether.xyz

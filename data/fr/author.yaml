@@ -1,0 +1,17 @@
+# some information about you
+name: "Living Together"
+nickname: "LivingTogether"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: ""
+image: "images/author/home.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "j.dolley@sussex.ac.uk"
+  github: https://github.com/JonathanDolley
+  linkedin: https://www.linkedin.com/in/jonathandolley/
+
+# some summary about what you do
+summary:
+  - Bourse mondiale Marie Skłodowska-Curie
+  - Les voies de la solidarité pour une alimentation durable
+

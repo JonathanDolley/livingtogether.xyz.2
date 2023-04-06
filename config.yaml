@@ -27,9 +27,9 @@ languages:
   de:
     languageName: Deutsch
     weight: 4
-  # fr:
-  #   languageName:  Français
-  #   weight: 5
+  fr:
+    languageName:  Français
+    weight: 5
   # it:
   #   languageName:  Italiano
   #   weight: 6

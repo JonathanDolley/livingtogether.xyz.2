@@ -1,0 +1,104 @@
+# section information
+section:
+  name: Chronologie
+  id: experiences
+  enable: true
+  weight: 10
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Année 1
+    url: ""
+    location: Corée
+    # company overview
+    overview: 
+  positions:
+  - designation: Apprentissage du coréen et conception de la recherche
+    start: Sep 2021
+    end: Feb 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Cours intensif de langue coréenne.
+    - Conception d'un outil d'entretien en collaboration avec le partenaire de recherche Mosim.
+    - Processus d'approbation éthique avec l'université du Sussex.
+    - Examen initial de la littérature propre à Hansalim.
+  - designation: Analyse documentaire et entretiens
+    start: Feb 2022
+    end: Aug 2022
+    responsibilities:
+    - Analyse de la littérature sur le mouvement coopératif coréen.
+    - Analyse de la littérature sur les coopératives ouvertes et le nouveau coopérativisme.
+    - Groupe de lecture et de discussion régulier avec les chercheurs du Mosim.
+    - Discussions régulières avec un chercheur coréen indépendant et collaboration sur un article académique commun.
+    - Entretiens avec des membres de coopératives de consommateurs.
+- company:
+    name: Année 2
+    url: 
+    location: Corée
+    overview:
+  positions:
+  - designation: Interviews et rédaction
+    start: Sep 2022
+    end: Dec 2022
+    responsibilities:
+    - Discussions régulières avec un chercheur coréen indépendant et collaboration à un article universitaire commun.
+    - Entretiens avec des employés de la Fédération Hansalim.
+    - Entretiens avec des membres d'associations régionales de producteurs.
+  - designation: Études de cas et rédaction de documents
+    start: Jan 2023
+    end: Jun 2023
+    responsibilities:
+    - Etude de cas de Busan.
+    - Etude de cas de Jeju.
+    - Rédaction académique.
+    - Collecte de récits personnels.
+    - Chapitres de livres 1 - 4.
+    - Planification d'un symposium.
+- company:
+    name: Année 3
+    url: 
+    location: Angleterre
+    overview: 
+  positions:
+  - designation: Tour d'Europe - mise en réseau avec des praticiens, des militants et des chercheurs du secteur coopératif
+    start: Aug 2023
+    end: Nov 2023
+    responsibilities:
+    - "08.21-08.25 : (not yet decided) Stockholm or Berlin?"
+    - "08.25-09.01 : Copenhagen - [Københavns Fødevarefællesskab (KBHFF)](https://kbhff.dk/), [Roskilde Økologiske Fødevarefællesskab](https://roskildeff.wixsite.com/roeff)."
+    - "09.01-09.09 : Vienna - [Morgenrot](https://morgenrot.wien/)"
+    - "10.15-10.20 : Munich > Luxembourg"
+    - "10.20-10.25 : Leipzig - [Kola Leipzig](https://kolaleipzig.de/)"
+    - "10.25-10.29 : Bolzano > Verona > Florence - [AgroFair Italy](https://www.altromercato.it/)"
+    - "10.29-11.01 : Calabria"
+    - "11.01-11.04 : Sicily"
+  - designation: Writing
+    start: Nov 2023
+    end: Dec 2023
+    responsibilities:
+    - Rédaction d'articles universitaires et de chapitres de livres.
+    - Planification d'un symposium.
+  - designation: Rédaction et séminaires
+    start: Jan 2024
+    end: May 2024
+    responsibilities:
+    - Rédiger des articles académiques et des chapitres de livres.
+    - S'engager avec les universitaires de l'université du Sussex. 
+    - Visiter des coopératives au Royaume-Uni, en France, en Belgique et aux Pays-Bas.
+  - designation: Symposium et Rassemblement
+    start: Jun 2024
+    end: Jun 2024
+    responsibilities:
+    - Symposium d'une journée à SPRU, Université du Sussex "Solidarity Pathways to Transformative Food Systems" (Voies de solidarité vers des systèmes alimentaires transformateurs)
+    - Rassemblement de deux jours à Manchester (Royaume-Uni) permettant aux membres et aux représentants des chercheurs Hansalim et Mosim de rencontrer des universitaires et des praticiens du Royaume-Uni et d'Europe et de convenir d'actions en vue d'une collaboration future.
+  - designation: Webinaire
+    start: Aug 2024
+    end: Aug 2024
+    responsibilities:
+    - Webinaire de clôture.

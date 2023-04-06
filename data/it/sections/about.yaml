@@ -77,7 +77,7 @@ badges:
   color: yellow
 
 - type: soft-skill-indicator
-  name: Ecophilosophy
+  name: Eco-philosophy
   percentage: 100
   color: "#82E0AA"
 
@@ -87,7 +87,7 @@ badges:
   color: blue
 
 - type: soft-skill-indicator
-  name: Agroecology
+  name: Agro-ecology
   percentage: 100
   color: green
 

@@ -1,0 +1,41 @@
+# section information
+section:
+  name: Themes
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Durabilité
+  logo: /images/sections/skills/tree-city-solid.svg
+  summary: "Comment Hansalim concilie-t-il la viabilité économique avec la régénération écologique et la justice sociale?"
+  url: ""
+
+- name: Ecophilosophie
+  logo: /images/sections/skills/pagelines.svg
+  summary: "Comment l'éco-philosophie unique de Hansalim influence-t-elle ses valeurs et ses pratiques ?"
+  url: ""
+
+- name: Nouveau coopérativisme
+  logo: /images/sections/skills/handshake-simple-solid.svg
+  summary: "Comment les valeurs et les pratiques de Hansalim se comparent-elles aux modèles émergents de 'nouveau coopérativisme' et de 'coopératives ouvertes' liés au mouvement de transition vers les communs?"
+
+- name: Transformation des systèmes alimentaires
+  logo: /images/sections/skills/bowl-rice-solid.svg
+  summary: "Quelles leçons pouvons-nous tirer de l'expérience de Hansalim dans la création d'un système alimentaire alternatif écologique à grande échelle?"
+  url: ""
+
+- name: Défis
+  logo: /images/sections/skills/people-carry-box-solid.svg
+  summary: "Quels sont les principaux défis auxquels Hansalim a été confronté au cours de ses 30 années d'existence et comment ont-ils influencé son évolution?"
+  url: ""
+
+- name: Résultats
+  logo: /images/sections/skills/users-solid.svg
+  summary: "Quels sont les résultats du modèle de système alimentaire de Hansalim pour les objectifs environnementaux et sociaux?"
+
