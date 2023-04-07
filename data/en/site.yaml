@@ -5,7 +5,7 @@ copyright: © 2023 Jonathan Dolley.
 disclaimer: "This project has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 892403."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Research project website for Living Together - solidarity pathways to sustainable food. A Marie Skłodowska-Curie Global Fellowship.
+description: Living Together - Hansalim as a model for solidarity pathways towards sustainable food systems and social transformations. A Marie Skłodowska-Curie Global Fellowship.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
@@ -22,6 +22,6 @@ description: Research project website for Living Together - solidarity pathways 
 openGraph:
   title: LivingTogether
   type: website
-  description: "Research project website for Living Together - solidarity pathways to sustainable food."
+  description: "Living Together - Hansalim as a model for solidarity pathways towards sustainable food systems and social transformations. A Marie Skłodowska-Curie Global Fellowship."
   image: "/images/site/background.jpg"
   url: https://livingtogether.xyz

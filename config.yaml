@@ -21,7 +21,7 @@ languages:
   en:
     languageName: English
     weight: 1
-  ko:
+  kr:
     languageName: 한국어
     weight: 3
   de:

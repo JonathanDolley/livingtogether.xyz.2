@@ -1,0 +1,104 @@
+# section information
+section:
+  name: 타임라인
+  id: experiences
+  enable: true
+  weight: 10
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: 1년차
+    url: ""
+    location: 한국
+    # company overview
+    overview: 
+  positions:
+  - designation: 한국어 학습 및 연구 설계
+    start: 2021-09
+    end: 2022-02
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - 한국어 집중 과정.
+    - 연구 파트너인 모심과의 공동 인터뷰 도구 설계.
+    - 서섹스 대학과의 윤리 승인 절차.
+    - 한살림 자체 문헌에 대한 초기 검토.
+  - designation: 문헌 검토 및 인터뷰
+    start: 2022-02
+    end: 2022-08
+    responsibilities:
+    - 한국 협동조합 운동에 관한 문헌 검토.
+    - 열린 협동조합과 새로운 협동조합주의에 관한 문헌 검토.
+    - 모심 연구자들과 정기적인 독서 및 토론 모임.
+    - 한국 독립 연구자들과 정기적인 토론 및 공동 학술 논문 공동 작업.
+    - 소비자협동조합 조합원 인터뷰.
+- company:
+    name: 2년차
+    url: 
+    location: 한국
+    overview:
+  positions:
+  - designation: 인터뷰 및 글쓰기
+    start: 2022-09
+    end: 2022-12
+    responsibilities:
+    - 국내 독립 연구자들과 정기적인 토론 및 공동 학술 논문 공동 작업.
+    - 한살림연합회 임직원 인터뷰.
+    - 지역 생산자 단체 회원 인터뷰.
+  - designation: 사례 연구 및 논문 작성
+    start: 2023-01
+    end: 2023-06
+    responsibilities:
+    - 부산 사례 연구.
+    - 제주 사례 연구.
+    - 학술적 글쓰기.
+    - 개인 서사 수집.
+    - 책 챕터 1 - 4.
+    - 심포지엄 기획.
+- company:
+    name: 2년차
+    url: 
+    location: 영국
+    overview: 
+  positions:
+  - designation: 유럽 투어 - 협동조합 실무자, 활동가 및 연구자들과의 네트워킹
+    start: 2023-08
+    end: 2023-11
+    responsibilities:
+    - "08.21-08.25 : (아직 미정) 스톡홀름 또는 베를린?"
+    - "08.25-09.01 : 코펜하겐 - [코펜하겐 포데바레펠리스카브(KBHFF)](https://kbhff.dk/), [로스킬데 외콜로지스케 포데바레펠리스카브](https://roskildeff.wixsite.com/roeff)"
+    - "09.01-09.09 : 비엔나 - [모르겐로트](https://morgenrot.wien/)"
+    - "10.15-10.20 : 뮌헨 > 룩셈부르크"
+    - "10.20-10.25 : 라이프치히 - [콜라 라이프치히](https://kolaleipzig.de/)"
+    - "10.25-10.29 : 볼차노 > 베로나 > 피렌체 - [아그로페어 이탈리아](https://www.altromercato.it/)"
+    - "10.29-11.01 : 칼라브리아"
+    - "11.01-11.04 : 시칠리아"
+  - designation: 글쓰기
+    start: 2023-11
+    end: 2023-12
+    responsibilities:
+    - 학술 논문 및 책 챕터 작성.
+    - 심포지엄 기획.
+  - designation: 글쓰기, 세미나, 방문
+    start: 2024-01
+    end: 2024-05
+    responsibilities:
+    - 학술 논문 및 책 챕터 작성.
+    - 서섹스 대학교의 학자들과 교류. 
+    - 영국, 프랑스, 벨기에, 네덜란드의 협동조합 방문.
+  - designation: 심포지엄 및 모임
+    start: 2024-06
+    end: 2024-60
+    responsibilities:
+    - "서섹스대학교 SPRU에서 열린 원데이 심포지엄 - '변혁적 식량체계를 향한 연대의 길'"
+    - 영국 맨체스터에서 한살림과 모심 연구자 및 조합원 대표들이 영국 및 유럽의 학자, 실무자들과 만나 향후 협력 방안을 논의하는 자리를 가졌습니다.
+  - designation: 웨비나
+    start: 2024-08
+    end: 2024-08
+    responsibilities:
+    - 프로젝트를 마무리하는 웨비나

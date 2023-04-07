@@ -5,7 +5,7 @@ copyright: © 2023 Jonathan Dolley.
 disclaimer: "이 프로젝트는 Marie Skłodowska-Curie 보조금 계약 번호 892403에 따라 유럽 연합의 Horizon 2020 연구 및 혁신 프로그램에서 자금을 지원받았습니다."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: "Research project website for Living Together - solidarity pathways to sustainable food. A Marie Skłodowska-Curie Global Fellowship."
+description: "Living Together - 지속가능한 먹거리 시스템과 사회변혁을 위한 연대 경로의 모델로서의 한살림. 마리 스클로도프스카-쿠리 글로벌 펠로우십."
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
@@ -22,6 +22,6 @@ customMenus:
 openGraph:
   title: LivingTogether
   type: website
-  description: "Research project website for Living Together - solidarity pathways to sustainable food."
+  description: "Living Together - 지속가능한 먹거리 시스템과 사회변혁을 위한 연대 경로의 모델로서의 한살림. 마리 스클로도프스카-쿠리 글로벌 펠로우십."
   image: "/images/site/background.jpg"
   url: https://livingtogether.xyz

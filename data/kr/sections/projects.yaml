@@ -27,7 +27,7 @@ projects:
   timeline: "March 2022 - Present"
   url:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Hansalim in the context of the Korean cooperative movement from 1910 to 2020. Discussing the values and features of the movement in connection with contemporary developments in 'New Cooperativism'. 
+  summary: "1910년부터 2020년까지 한국 협동조합 운동의 맥락에서 본 한살림. 한살림운동의 가치와 특징을 현대 '신협동주의'의 발전과 연계하여 논의합니다."
   tags: ["academic"]
 
 - name: Paper 2
@@ -36,7 +36,7 @@ projects:
   timeline: "March 2023 - Present"
   url:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Exploring the opportunities and challenges encountered by Hansalim as an alternative food system. Analysing case studies of different food system configurations in Hansalim's various regions (Greater Seoul, Busan, Jeju).
+  summary: 대안적 먹거리 체계로서 한살림이 직면한 기회와 과제를 살펴봅니다. 한살림의 다양한 지역(수도권, 부산, 제주)의 다양한 먹거리 체계 구성 사례를 분석합니다.
   tags: ["academic"]
 
 - name: Book
@@ -45,7 +45,7 @@ projects:
   timeline: "March 2023 - Present"
   url: "https://book.livingtogether.xyz"
   #url: ""
-  summary: A book about Hansalim for popular readership. Telling the story of Hansalim and featuring personal stories from co-op members. Analysis of Hansalim's multi-stakeholder model as a potential pathway to sustainable food systems. Discussing connections between Hansalim's eco-philosophy and ideas about wider social transformation.
+  summary: 대중적인 독자를 위한 한살림에 관한 책. 한살림에 대한 이야기와 조합원들의 개인적인 이야기를 담았습니다. 한살림의 다중이해관계자 모델을 지속가능한 먹거리 시스템으로 가는 잠재적 경로로 분석. 한살림의 생태철학과 더 넓은 사회변혁에 대한 아이디어 사이의 연관성을 논의합니다.
   tags: ["popular"]
 
 - name: Symposium
@@ -53,7 +53,15 @@ projects:
   role: Organiser
   timeline: "June 2024"
   url: ""
-  summary: A chance for members and representatives of Hansalim to visit the UK and meet with like-minded practitioners and academics from across Europe.
+  summary: "서섹스 대학교 SPRU의 학자 및 활동가를 위한 일일 컨퍼런스 - '변혁적 식품 시스템을 향한 연대 경로'"
+  tags: ["engagement"]
+
+- name: Manchester Gathering
+  logo: /images/sections/projects/handshake-solid.svg
+  role: Organiser
+  timeline: "June 2024"
+  url: ""
+  summary: 한살림 조합원과 대표들이 영국을 방문해 같은 생각을 가진 유럽 전역의 실천가, 학자들과 만날 수 있는 기회입니다.
   tags: ["engagement"]
 
 - name: Network
@@ -61,7 +69,7 @@ projects:
   role: Facilitator
   timeline: "Beyond end of project"
   url: ""
-  summary: Initiate a Korea-EU network of multi-stakeholder cooperative practitioners and researchers.
+  summary: 다 이해관계자 협력 실무자 및 연구자로 구성된 한-EU 네트워크를 구축합니다.
   tags: ["engagement"]
 
 # - name: Nocode

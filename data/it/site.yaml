@@ -5,7 +5,7 @@ copyright: © 2023 Jonathan Dolley.
 disclaimer: "Questo progetto è stato finanziato dal programma di ricerca e innovazione Horizon 2020 dell'Unione Europea nell'ambito dell'accordo di sovvenzione Marie Skłodowska-Curie n. 892403."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Sito web del progetto di ricerca Living Together - percorsi di solidarietà per un'alimentazione sostenibile. Una borsa di studio globale Marie Skłodowska-Curie.
+description: Living Together - Hansalim come modello per percorsi di solidarietà verso sistemi alimentari sostenibili e trasformazioni sociali. Una borsa di studio globale Marie Skłodowska-Curie.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
@@ -22,6 +22,6 @@ description: Sito web del progetto di ricerca Living Together - percorsi di soli
 openGraph:
   title: LivingTogether
   type: website
-  description: "Sito web del progetto di ricerca Living Together - percorsi di solidarietà per un'alimentazione sostenibile."
+  description: "Living Together - Hansalim come modello per percorsi di solidarietà verso sistemi alimentari sostenibili e trasformazioni sociali. Una borsa di studio globale Marie Skłodowska-Curie."
   image: "/images/site/background.jpg"
   url: https://livingtogether.xyz

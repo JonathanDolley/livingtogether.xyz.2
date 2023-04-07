@@ -1,0 +1,41 @@
+# section information
+section:
+  name: 테마
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: 지속 가능성
+  logo: /images/sections/skills/tree-city-solid.svg
+  summary: "한살림은 어떻게 경제성과 생태적 재생, 사회정의의 균형을 맞출 수 있을까요?"
+  url: ""
+
+- name: 생태철학
+  logo: /images/sections/skills/pagelines.svg
+  summary: "한살림의 고유한 생태철학은 한살림의 가치와 실천에 어떤 영향을 미쳤나요?"
+  url: ""
+
+- name: 새로운 협동주의
+  logo: /images/sections/skills/handshake-simple-solid.svg
+  summary: "한살림의 가치와 실천은 커먼즈 전환 운동과 연계된 '새로운 협동조합주의', '열린 협동조합'이라는 새로운 모델과 어떻게 비교될 수 있을까요?"
+
+- name: 식품 시스템 혁신
+  logo: /images/sections/skills/bowl-rice-solid.svg
+  summary: "대규모 친환경 대안 먹거리 시스템을 구축한 한살림의 경험에서 우리는 어떤 교훈을 얻을 수 있을까요?"
+  url: ""
+
+- name: 도전 과제
+  logo: /images/sections/skills/people-carry-box-solid.svg
+  summary: "한살림이 30년의 여정에서 직면한 주요 도전은 무엇이며, 그 도전이 한살림의 진화를 어떻게 만들어왔을까?"
+  url: ""
+
+- name: 결과
+  logo: /images/sections/skills/users-solid.svg
+  summary: "환경과 사회적 목표를 위한 한살림의 먹거리 시스템 모델의 성과는 무엇인가요?"
+
