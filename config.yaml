@@ -33,9 +33,12 @@ languages:
   it:
     languageName:  Italiano
     weight: 6
-  # es:
-  #   languageName:  Español
-  #   weight: 7
+  es:
+    languageName:  Español
+    weight: 7
+  dk:
+    languageName:  Dansk
+    weight: 8
   # zh-cn:
   #   languageName:  简体
   #   weight: 8
