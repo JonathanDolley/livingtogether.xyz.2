@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Themen
+  name: Temaer
   id: skills
   enable: true
   weight: 2
@@ -11,31 +11,31 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Nachhaltigkeit
+- name: Bæredygtighed
   logo: /images/sections/skills/tree-city-solid.svg
-  summary: "Wie schafft Hansalim ein Gleichgewicht zwischen wirtschaftlicher Rentabilität, ökologischer Regeneration und sozialer Gerechtigkeit?"
+  summary: "Hvordan balancerer Hansalim økonomisk levedygtighed med økologisk regenerering og social retfærdighed?"
   url: ""
 
-- name: Ökophilosophie
+- name: Økofilosofi
   logo: /images/sections/skills/pagelines.svg
-  summary: "Wie beeinflusst die einzigartige Ökophilosophie von Hansalim seine Werte und seine Praxis?"
+  summary: "Hvordan påvirker Hansalims unikke økofilosofi Hansalims værdier og praksis?"
   url: ""
 
-- name: Neues Genossenschaftswesen
-  logo: /images/sections/skills/handshake-simple-solid.svg
-  summary: "Wie lassen sich die Werte und Praktiken von Hansalim mit den aufkommenden Modellen des 'Neuen Genossenschaftswesens' und der 'Offenen Genossenschaften' im Zusammenhang mit der Commons Transition-Bewegung vergleichen?"
+- name: Ny Kooperatisme
+  logo: "/images/sections/skills/handshake-simple-solid.svg"
+  summary: "Hvordan kan Hansalims værdier og praksis sammenlignes med de nye modeller for 'ny kooperativitet' og 'åbne kooperativer', der er knyttet til Commons Transition Movement?"
 
-- name: Transformation der Lebensmittelsysteme
+- name: Transformation af fødevaresystemer
   logo: /images/sections/skills/bowl-rice-solid.svg
-  summary: "Welche Lehren können wir aus den Erfahrungen von Hansalim mit der Schaffung eines groß angelegten umweltfreundlichen alternativen Lebensmittelsystems ziehen?"
+  summary: "Hvilke erfaringer kan vi lære af Hansalims erfaringer med at skabe et miljøvenligt alternativt fødevaresystem i stor skala?"
   url: ""
 
-- name: Herausforderungen
+- name: Udfordringer
   logo: /images/sections/skills/people-carry-box-solid.svg
-  summary: "Welches sind die wichtigsten Herausforderungen, mit denen Hansalim in den vergangenen 30 Jahren konfrontiert war, und wie haben sie die Entwicklung von Hansalim beeinflusst?"
+  summary: "Hvad er de vigtigste udfordringer, som Hansalim har stået over for i løbet af sin 30-årige rejse, og hvordan har de formet Hansalims udvikling?"
   url: ""
 
-- name: Ergebnisse
+- name: Resultater
   logo: /images/sections/skills/users-solid.svg
-  summary: "Was sind die Ergebnisse von Hansalims Lebensmittelsystemmodell für ökologische und soziale Ziele?"
+  summary: "Hvad er resultaterne af Hansalims fødevaresystemmodel for miljømæssige og sociale mål?"
 
