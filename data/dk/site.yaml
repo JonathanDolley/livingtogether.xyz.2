@@ -1,0 +1,27 @@
+# Copyright Notice
+copyright: © 2023 Jonathan Dolley.
+
+# A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
+disclaimer: "Dette projekt har modtaget støtte fra EU's Horizon 2020 forsknings- og innovationsprogram under Marie Skłodowska-Curie-tilskudsaftale nr. 892403."
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: "Living Together - Hansalim som en model for solidariske veje mod bæredygtige fødevaresystemer og sociale forandringer. Et Marie Skłodowska-Curie Global Fellowship til at forske i den kooperative bevægelse i Korea og udviklingen af Hansalim, et af verdens største kooperativer for økologiske fødevarer. Dette projekt har til formål at fremme samarbejde og netværkssamarbejde mellem solidariske fødevaresamfund i Europa og koreanske Life Cooperarives. Community supported agriculture (CSA), regenerativt landbrug og agroøkologiske landbrugsgrupper, kooperativer for solidarisk landbrug og alternative fødevarenetværk i Storbritannien, Tyskland, Østrig, Belgien, Nederlandene, Frankrig, Italien og Danmark vil blive samlet på et møde i Wien i juni 2024 for at opbygge relationer med hinanden og Hansalim og søge måder at samarbejde om transformation af fødevaresystemet og social forandring."
+
+# specify the list of custom menus that you want to show in the top navbar.
+# they will be separated by a divider from the main menus.
+# customMenus:
+# - name: Docs
+#   url: https://toha-guides.netlify.app/posts/
+#   # specify whether to hide the menu item from top navbar or not.
+#   hideFromNavbar: true
+#   # specify whether to show the menu item in footer or not.
+#   # if you set it to true, make sure you have set `footer.navigation.customMenus: true` in your config.yaml
+#   showOnFooter: false
+
+# Specify OpenGraph Headers
+openGraph:
+  title: LivingTogether
+  type: website
+  description: "Living Together - Hansalim som en model for solidaritetsbaserede veje til bæredygtige fødevaresystemer og social forandring. Et Marie Skłodowska-Curie Global Fellowship."
+  image: "/images/site/background.jpg"
+  url: https://livingtogether.xyz

@@ -1,0 +1,103 @@
+# section information
+section:
+  name: Tidsplan
+  id: experiences
+  enable: true
+  weight: 10
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: År 1
+    url: ""
+    location: Korea
+    # company overview
+    overview: 
+  positions:
+  - designation: Indlæring af koreansk sprog og forskningsdesign
+    start: Sep 2021
+    end: Feb 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Intensivt koreansk sprogkursus.
+    - Samarbejde om udformning af interviewredskaber med forskningspartner Mosim.
+    - Etisk godkendelsesproces med University of Sussex.
+    - Indledende gennemgang af Hansalims egen litteratur.
+  - designation: Litteraturgennemgang og interviews
+    start: Feb 2022
+    end: Aug 2022
+    responsibilities:
+    - Gennemgang af litteraturen om den koreanske kooperative bevægelse.
+    - Gennemgang af litteratur om åbne kooperativer og ny kooperatisme.
+    - Regelmæssig læse- og diskussionsgruppe med Mosim-forskere.
+    - Regelmæssige drøftelser med uafhængige koreanske forskere og samarbejde om fælles akademiske artikler.
+    - Interviews med medlemmer af forbrugerkooperativer.
+- company:
+    name: År 2
+    url: 
+    location: Korea
+    overview:
+  positions:
+  - designation: Interviews og skrivning
+    start: Sep 2022
+    end: Dec 2022
+    responsibilities:
+    - Regelmæssige drøftelser med en uafhængig koreansk forsker og samarbejde om en fælles akademisk artikel.
+    - Interviews med ansatte i Hansalim-føderationen.
+    - Interviews med medlemmer af regionale producentsammenslutninger.
+  - designation: Casestudier og udarbejdelse af artikler
+    start: Jan 2023
+    end: Jun 2023
+    responsibilities:
+    - Busan case study.
+    - Jeju case study.
+    - Akademisk skrivning.
+    - Indsamling af personlige fortællinger.
+    - Bogkapitler 1 - 4.
+    - Planlægning af symposier.
+- company:
+    name: År 3
+    url: 
+    location: UK
+    overview: 
+  positions:
+  - designation: Europa-turné - netværkssamarbejde med kooperative praktikere, aktivister og forskere
+    start: Aug 2023
+    end: Nov 2023
+    responsibilities:
+    - "08.21-08.25 : (endnu ikke besluttet) Stockholm or Berlin?"
+    - "08.25-09.01 : Copenhagen - [Københavns Fødevarefællesskab (KBHFF)](https://kbhff.dk/), [Roskilde Økologiske Fødevarefællesskab](https://roskildeff.wixsite.com/roeff)."
+    - "09.01-09.09 : Vienna - [Morgenrot](https://morgenrot.wien/)"
+    - "10.15-10.20 : Munich > Luxembourg"
+    - "10.20-10.25 : Leipzig - [Kola Leipzig](https://kolaleipzig.de/)"
+    - "10.25-10.29 : Bolzano > Verona > Florence - [AgroFair Italy](https://www.altromercato.it/)"
+    - "10.29-11.01 : Calabria"
+    - "11.01-11.04 : Sicily"
+  - designation: Skrivning
+    start: Nov 2023
+    end: Dec 2023
+    responsibilities:
+    - Skrivning af akademiske artikler og bogkapitler.
+  - designation: Skrivning, seminarer, besøg
+    start: Jan 2024
+    end: May 2024
+    responsibilities:
+    - Skrivning af akademiske artikler og bogkapitler.
+    - Samarbejde med akademikere på Sussex University. 
+    - Besøg i kooperativer i Storbritannien, Frankrig, Belgien, Nederlandene og Spanien.
+  - designation: Symposium og sammenkomst
+    start: Jun 2024
+    end: Jun 2024
+    responsibilities:
+    - "Et todages møde i Wien, hvor medlemmer og repræsentanter for Hansalim- og Mosim-reserachere fik lejlighed til at mødes med akademikere og praktikere fra Storbritannien og Europa og til at aftale tiltag for fremtidigt samarbejde."
+    - "Endags-symposium på SPRU, Univeristy of Sussex - 'Solidarity Pathways to Transformative Food Systems'"
+  - designation: Webinar
+    start: Aug 2024
+    end: Aug 2024
+    responsibilities:
+  - Afsluttende webinar.

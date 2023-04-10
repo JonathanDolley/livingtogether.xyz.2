@@ -1,6 +1,6 @@
 # section information
 section:
-  name: About
+  name: Sobre
   id: about
   enable: true
   weight: 1
@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Hansalim as a model for solidarity pathways towards sustainable food systems.
+designation: Hansalim como modelo de vías solidarias hacia sistemas alimentarios sostenibles.
 # your company information
 company:
   name: 
@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "This 3 year research project is a [Marie Skłodowska-Curie Action](https://ec.europa.eu/research/mariecurieactions/) - Global Fellowship led by [Dr Jonathan Dolley](https://profiles.sussex.ac.uk/p133363-jonathan-dolley) and supervised by the [University of Sussex](https://www.sussex.ac.uk/business-school/people-and-departments/spru) and the [Mosim and Salim Research Institute](http://mosim.or.kr/), Hansalim (South Korea). Through this project I am investigating the story of the Korean cooperative, [Hansalim](http://eng.hansalim.or.kr/), which grew from a small rice market on the outskirts of Seoul in 1986 to become one of the worlds largest organic food cooperatives with 750,000 members and producers. I want to find out what lessons their experience holds for other cooperative groups and movements in the UK and EU as we strive to transform our food systems away from industrialized models towards a fairer and more sustainable future."
+summary: "Este proyecto de investigación de tres años es una beca global [Marie Skłodowska-Curie Action](https://ec.europa.eu/research/mariecurieactions/) dirigida por el [Dr. Jonathan Dolley](https://profiles.sussex.ac.uk/p133363-jonathan-dolley) y supervisada por la [Universidad de Sussex](https://www.sussex.ac.uk/business-school/people-and-departments/spru) y el [Instituto de Investigación Mosim y Salim](http://mosim.or.kr/), Hansalim (Corea del Sur). A través de este proyecto investigo la historia de la cooperativa coreana [Hansalim](http://eng.hansalim.or.kr/), que pasó de ser un pequeño mercado de arroz en las afueras de Seúl en 1986 a convertirse en una de las mayores cooperativas de alimentos ecológicos del mundo, con 750.000 socios y productores. Quiero averiguar qué enseñanzas puede aportar su experiencia a otros grupos y movimientos cooperativos del Reino Unido y la UE en su lucha por transformar nuestros sistemas alimentarios, alejándonos de los modelos industrializados y acercándonos a un futuro más justo y sostenible."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -61,7 +61,7 @@ socialLinks:
 resourceLinks:
 - title: "E-Book"
   url: "https://book.livingtogether.xyz"
-- title: "Hansalim 2021 Report (english)" 
+- title: "Hansalim 2021 Bericht (englisch)" 
   url: "https://drive.google.com/file/d/1LUZxoPycHRt4-vKIowS65nj0Or3RUspu/view?usp=share_link"
 
 # Show your badges
@@ -69,52 +69,31 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: soft-skill-indicator
-  name: Sustainability
+  name: Sostenibilidad
   percentage: 100
   color: orange
 
 - type: soft-skill-indicator
-  name: Solidarity
+  name: Solidaridad
   percentage: 100
   color: yellow
 
 - type: soft-skill-indicator
-  name: Ecophilosophy
+  name: Ecofilosofía
   percentage: 100
   color: "#82E0AA"
 
 - type: soft-skill-indicator
-  name: Cooperative
+  name: Cooperativa
   percentage: 100
   color: blue
 
 - type: soft-skill-indicator
-  name: Agroecology
+  name: Agroecología
   percentage: 100
   color: green
 
 - type: soft-skill-indicator
-  name: Inclusion
+  name: Inclusión
   percentage: 100
   color: pink
-
-# - type: soft-skill-indicator
-#   name: Leadership
-#   percentage: 85
-#   color: blue
-
-# - type: soft-skill-indicator
-#   name: Team Work
-#   percentage: 90
-#   color: yellow
-
-# - type: soft-skill-indicator
-#   name: Hard Working
-#   percentage: 85
-#   color: orange
-
-# you can also provide color code instead of the color name
-# - type: soft-skill-indicator
-#   name: Example 1
-#   percentage: 75
-#   color: "#00adb5"

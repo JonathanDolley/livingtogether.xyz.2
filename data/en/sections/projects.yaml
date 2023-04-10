@@ -45,7 +45,7 @@ projects:
   timeline: "March 2023 - Present"
   url: "https://book.livingtogether.xyz"
   #url: ""
-  summary: A book about Hansalim for popular readership. Telling the story of Hansalim and featuring personal stories from co-op members. Analysis of Hansalim's multi-stakeholder model as a potential pathway to sustainable food systems. Discussing connections between Hansalim's eco-philosophy and ideas about wider social transformation.
+  summary: "A book about Hansalim for popular readership. Telling the story of Hansalim and featuring personal stories from co-op members. Analysis of Hansalim's multi-stakeholder model as a potential pathway to sustainable food systems. Discussing connections between Hansalim's eco-philosophy and ideas about wider social transformation."
   tags: ["popular"]
 
 - name: Symposium
@@ -56,12 +56,12 @@ projects:
   summary: "A one-day conference for academics and activists at SPRU, Univeristy of Sussex - 'Solidarity Pathways to Transformative Food Systems'"
   tags: ["engagement"]
 
-- name: Manchester Gathering
+- name: Vienna Gathering
   logo: /images/sections/projects/handshake-solid.svg
   role: Organiser
   timeline: "June 2024"
   url: ""
-  summary: A chance for members and representatives of Hansalim to visit the UK and meet with like-minded practitioners and academics from across Europe.
+  summary: "An opportunity for solidarity food communities across Europe to come together for a two-day workshop to build relationships, share knowledge and meet with Hansalim representatives and researchers to explore future collaboration."
   tags: ["engagement"]
 
 - name: Network
@@ -69,7 +69,7 @@ projects:
   role: Facilitator
   timeline: "Beyond end of project"
   url: ""
-  summary: Initiate an EU-Korea network of multi-stakeholder cooperative practitioners and researchers.
+  summary: Initiate an EU-Korea network of solidarity food practitioners and researchers.
   tags: ["engagement"]
 
 # - name: Nocode

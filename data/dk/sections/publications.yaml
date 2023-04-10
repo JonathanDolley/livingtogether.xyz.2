@@ -1,0 +1,142 @@
+# section information
+section:
+  name: Selected Publications
+  id: publications
+  enable: true
+  weight: 30
+  showOnNavbar: false
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: "Jonathan Dolley"
+  filter: "dolley-j"
+- name: "Yikyung Kim"
+  filter: "kim-yk"
+- name: "Chedo Lim"
+  filter: "lim-cd"
+- name: "Miseong Cho"
+  filter: "cho-ms"
+- name: "Fiona Marshall"
+  filter: "marshall-f"
+
+# your publications
+publications:
+- title: Analysing trade-offs and synergies between SDGs for urban development, food security and poverty alleviation in rapidly changing peri-urban areas
+  publishedIn:
+    name: Sustainability Science
+    date: 1 November 2020
+    url: https://www.springer.com/journal/11625
+  authors:
+  - name: Dolley, J.
+    url: https://profiles.sussex.ac.uk/p133363-jonathan-dolley
+  - name:  Marshall, F.
+    url: https://profiles.sussex.ac.uk/p174494-fiona-marshall
+  - name: Butcher, B.
+    url: https://profiles.sussex.ac.uk/p333356-bradley-butcher
+  - name: Reffin, J.
+    url: https://profiles.sussex.ac.uk/p78802-jeremy-reffin
+  - name: Robinson, JA.
+    url:
+  - name: Eray, B.
+    url:
+  - name: Quadrianto, N.
+    url: https://profiles.sussex.ac.uk/p335583-novi-quadrianto
+  paper:
+    summary: In this paper, we draw on a reinterpretation of empirical data concerned with land-use change and multiple dimensions of food security from the city of Wuhan in China to illustrate some of the complex trade-offs between SDG goals that tend to be overlooked with current planning approaches. We then describe the development of an interactive web-based tool that implements deep learning methods for fine-grained land-use classification of high-resolution remote sensing imagery and integrates this with a flexible method for rapid trade-off analysis of land-use change scenarios. The development and potential use of the tool are illustrated using data from the Wuhan case study example. This tool has the potential to support participatory planning processes by providing a platform for multiple stakeholders to explore the implications of planning decisions and land-use policies.
+    url: https://dx.doi.org/10.1007/s11625-020-00802-0
+  categories: ["dolley-j"]
+  tags: ["Wuhan", "Machine Learning", "Computer Vision", "GIS", "Urban Planning", "Food Security"]
+
+- title: Transformative innovation in peri-urban Asia
+  publishedIn:
+    name: Research Policy
+    date: 1 May 2019
+    url: https://www.sciencedirect.com/journal/research-policy
+  authors:
+  - name: Marshall, F. 
+    url: https://profiles.sussex.ac.uk/p174494-fiona-marshall
+  - name: Dolley, J.
+    url: https://profiles.sussex.ac.uk/p133363-jonathan-dolley
+  paper:
+    summary: This paper draws on two case studies from India (Ghaziabad) and China (Wuhan) to discuss how and why rapidly urbanizing contexts are particularly challenging for transformative innovation but are also critical sustainability frontiers and learning environments.
+    url: https://dx.doi.org/10.1016/j.respol.2018.10.007
+  categories: ["dolley-j", "marshall-f"]
+  tags: ["Peri-urban", "China", "India", "Transformative Innovation"]
+
+- title: Transdisciplinary research as transformative space making for sustainability
+  publishedIn:
+    name: Ecology and Society
+    date: 1 October 2018
+    url: https://ecologyandsociety.org/
+  authors:
+  - name: Marshall, F.
+    url: https://profiles.sussex.ac.uk/p174494-fiona-marshall
+  - name: Dolley, J.
+    url: https://profiles.sussex.ac.uk/p133363-jonathan-dolley
+  - name: Priya, R.
+    url: 
+  paper:
+    summary: "Enhancing propoor transformative agency in Periurban contexts. In this paper we discuss how transdisciplinary development research (TDR), if approached in particular ways, can not only produce new knowledge, but also foster deeper systemic changes in the knowledge system itself. We are concerned with systemic change that supports pro-poor sustainability transformations, and conceptualise the processes that contribute to this type of systemic change as 'transformative space making' (TSM)."
+    url: https://dx.doi.org/10.5751/ES-10249-230308
+  categories: ["dolley-j", "marshall-f"]
+  tags: ["Sustainability", "Propoor", "Transdisciplinary Research"]
+
+- title: Ecosystem services and poverty alleviation in urbanising contexts (book chapter)
+  publishedIn:
+    name: Ecosystem Services and Poverty Alleviation - Trade-Offs and Governance
+    date: 1 January 2018
+    url: https://dx.doi.org/10.4324/9780429507090
+  authors:
+  - name: Marshall, F.
+    url: https://profiles.sussex.ac.uk/p174494-fiona-marshall
+  - name: Dolley, J.
+    url: https://profiles.sussex.ac.uk/p133363-jonathan-dolley
+  - name: Priya, R.
+    url: 
+  - name: Priya, R.
+    url:
+  - name: Waldman, L.
+    url:
+  - name: Amerasinghe, P.
+    url: 
+  - name: Randhawa, P.
+    url:
+  paper:
+    summary: "Processes of urbanisation are implicated in worsening environmental degradationand  poverty,  while  at  the  same  time  cities  often  drive  growth  and  innovation. Essential connections between people and the environment are often obscured inthe  drive  for  economic  growth,  infrastructural  development  and  mainstreaminitiatives for clean and green urban centres. As in rural contexts, urban and peri-urban  ecosystem  services  have  critical  roles  to  play  in  underpinning  sustainable development,  and  will  be  key  to  building  ‘resilient’  towns  and  cities."
+    url: https://dx.doi.org/10.4324/9780429507090
+  categories: ["dolley-j", "marshall-f"]
+  tags: ["Ecosystem services", "Poverty alleviation", "Governance", "Urbanisation"]
+
+- title: "International Exchange and Solidarity Activities of Korean Cooperatives" 
+  publishedIn:
+    name: 100 Years of the Korean Co-operative Movement
+    date: "2019"
+    url: 
+  authors:
+  - name: Yikyung Kim 
+    url: https://www.linkedin.com/in/yikyung-kim-6b5003146/?originalSubdomain=kr
+  paper:
+    summary: ""
+    url: 
+  categories: ["kim-yk"]
+  tags: ["Cooperativism", "Korea"]
+
+- title: The future I started, Hanslim. (Interview with Korean social innovators) 
+  publishedIn:
+    name: 
+    date: "2017"
+    url: 
+  authors:
+  - name: Yikyung Kim 
+    url: https://www.linkedin.com/in/yikyung-kim-6b5003146/?originalSubdomain=kr
+  - name: Manjo Ha
+  - name: Hyun Kim
+  paper:
+    summary: ""
+    url: 
+  categories: ["kim-yk"]
+  tags: ["Cooperativism", "Korea", "Hansalim", "Social Innovation"]

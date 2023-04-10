@@ -1,0 +1,27 @@
+# Copyright Notice
+copyright: © 2023 Jonathan Dolley.
+
+# A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
+disclaimer: "Este proyecto ha recibido financiación del programa de investigación e innovación Horizonte 2020 de la Unión Europea en virtud del acuerdo de subvención Marie Skłodowska-Curie nº 892403."
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: "Living Together - Vivir juntos - Hansalim como modelo de vías solidarias hacia sistemas alimentarios sostenibles y transformaciones sociales. Una beca mundial Marie Skłodowska-Curie para investigar el movimiento cooperativo en Corea y el desarrollo de Hansalim, una de las mayores cooperativas de alimentos ecológicos del mundo. Este proyecto pretende facilitar la colaboración y la creación de redes entre las comunidades alimentarias solidarias de Europa y las Life Cooperarives coreanas. Grupos de agricultura apoyada por la comunidad (CSA), agricultura regenerativa y agricultura agroecológica, cooperativas de agricultura solidaria y redes de alimentación alternativa de Reino Unido, Alemania, Austria, Bélgica, Países Bajos, Francia, Italia y Dinamarca se reunirán en un Encuentro en Viena en junio de 2024 para establecer relaciones entre sí y con Hansalim y buscar formas de colaborar en la transformación del sistema alimentario y el cambio social."
+
+# specify the list of custom menus that you want to show in the top navbar.
+# they will be separated by a divider from the main menus.
+# customMenus:
+# - name: Docs
+#   url: https://toha-guides.netlify.app/posts/
+#   # specify whether to hide the menu item from top navbar or not.
+#   hideFromNavbar: true
+#   # specify whether to show the menu item in footer or not.
+#   # if you set it to true, make sure you have set `footer.navigation.customMenus: true` in your config.yaml
+#   showOnFooter: false
+
+# Specify OpenGraph Headers
+openGraph:
+  title: LivingTogether
+  type: website
+  description: "Living Together - Hansalim como modelo de vías solidarias hacia sistemas alimentarios sostenibles y el cambio social. Una beca mundial Marie Skłodowska-Curie."
+  image: "/images/site/background.jpg"
+  url: https://livingtogether.xyz

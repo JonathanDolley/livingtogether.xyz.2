@@ -56,12 +56,12 @@ projects:
   summary: "Una conferenza di un giorno per accademici e attivisti presso la SPRU, Università del Sussex - 'Solidarity Pathways to Transformative Food Systems'"
   tags: ["engagement"]
 
-- name: Raduno di Manchester
+- name: Raduno di Vienna
   logo: /images/sections/projects/handshake-solid.svg
   role: Organiser
   timeline: "June 2024"
   url: ""
-  summary: Un'occasione per i membri e i rappresentanti di Hansalim di visitare il Regno Unito e di incontrare professionisti e accademici di tutta Europa che la pensano allo stesso modo.
+  summary: "Un'opportunità per le comunità del cibo solidale di tutta Europa di riunirsi in un workshop di due giorni per costruire relazioni, condividere conoscenze e incontrare i rappresentanti e i ricercatori di Hansalim per esplorare collaborazioni future."
   tags: ["engagement"]
 
 - name: Rete
@@ -69,7 +69,7 @@ projects:
   role: Facilitator
   timeline: "Oltre la fine del progetto"
   url: ""
-  summary: Avviare una rete Corea-UE di operatori e ricercatori di cooperative multi-stakeholder.
+  summary: "Avviare una rete UE-Corea di operatori e ricercatori del cibo solidale."
   tags: ["engagement"]
 
 # - name: Nocode

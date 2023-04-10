@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Outputs
+  name: Salidas
   id: projects
   enable: true
   weight: 15
@@ -27,7 +27,7 @@ projects:
   timeline: "March 2022 - Present"
   url:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Hansalim dans le contexte du mouvement coopératif coréen de 1910 à 2020. Discuter des valeurs et des caractéristiques du mouvement en relation avec les développements contemporains du "nouveau coopérativisme". 
+  summary: "Hansalim en el contexto del movimiento cooperativo coreano de 1910 a 2020. Debate sobre los valores y características del movimiento en relación con la evolución contemporánea del 'nuevo cooperativismo.'"
   tags: ["academic"]
 
 - name: Paper 2
@@ -36,7 +36,7 @@ projects:
   timeline: "March 2023 - Present"
   url:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Explorer les opportunités et les défis rencontrés par Hansalim en tant que système alimentaire alternatif. Analyser les études de cas des différentes configurations du système alimentaire dans les diverses régions de Hansalim (Grand Séoul, Busan, Jeju).
+  summary: "Exploración de las oportunidades y retos a los que se enfrenta Hansalim como sistema alimentario alternativo. Analizar estudios de casos de diferentes configuraciones de sistemas alimentarios en las distintas regiones de Hansalim (Gran Seúl, Busan, Jeju)."
   tags: ["academic"]
 
 - name: Book
@@ -45,31 +45,31 @@ projects:
   timeline: "March 2023 - Present"
   url: "https://book.livingtogether.xyz"
   #url: ""
-  summary: Un livre sur Hansalim destiné à un lectorat populaire. Raconter l'histoire de Hansalim et présenter des témoignages de membres de la coopérative. L'analyse du modèle multipartite de Hansalim en tant que voie potentielle vers des systèmes alimentaires durables. Une discussion sur les liens entre l'éco-philosophie de Hansalim et les idées sur la transformation sociale au sens large.
+  summary: "Libro de divulgación sobre Hansalim. Cuenta la historia de Hansalim e incluye historias personales de los miembros de la cooperativa. Análisis del modelo multiparticipativo de Hansalim como posible vía hacia sistemas alimentarios sostenibles. Discutir las conexiones entre la ecofilosofía de Hansalim y las ideas sobre una transformación social más amplia."
   tags: ["popular"]
 
-- name: Symposium
+- name: Simposio
   logo: /images/sections/projects/people-roof-solid.svg
   role: Organiser
   timeline: "June 2024"
   url: ""
-  summary: "Une conférence d'une journée pour les universitaires et les activistes à SPRU, Université du Sussex - 'Solidarity Pathways to Transformative Food Systems' (Voies de la solidarité vers des systèmes alimentaires transformateurs)."
+  summary: "Eine eintägige Konferenz für Akademiker und Aktivisten an der SPRU, University of Sussex - 'Solidarity Pathways to Transformative Food Systems.'"
   tags: ["engagement"]
 
-- name: Rassemblement de Vienne
+- name: Encuentro de Viena
   logo: /images/sections/projects/handshake-solid.svg
   role: Organiser
   timeline: "June 2024"
   url: ""
-  summary: "L'occasion pour les communautés de l'alimentation solidaire de toute l'Europe de se réunir pour un atelier de deux jours afin de nouer des relations, de partager des connaissances et de rencontrer des représentants de Hansalim et des chercheurs afin d'envisager une collaboration future."
+  summary: "Una oportunidad para que las comunidades alimentarias solidarias de toda Europa establezcan relaciones, compartan conocimientos y se reúnan con representantes e investigadores de Hansalim para explorar futuras colaboraciones."
   tags: ["engagement"]
 
-- name: Network
+- name: Comunidad
   logo: /images/sections/projects/people-arrows-solid.svg
   role: Facilitator
-  timeline: "Beyond end of project"
+  timeline: "Más allá del final del proyecto"
   url: ""
-  summary: "Créer un réseau UE-Corée de praticiens et de chercheurs dans le domaine de l'alimentation solidaire."
+  summary: Crear una red UE-Corea de profesionales e investigadores de la alimentación solidaria.
   tags: ["engagement"]
 
 # - name: Nocode

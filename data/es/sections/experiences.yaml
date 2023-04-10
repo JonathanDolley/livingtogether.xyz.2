@@ -1,0 +1,103 @@
+# section information
+section:
+  name: Cronología
+  id: experiences
+  enable: true
+  weight: 10
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Año 1
+    url: ""
+    location: Corea
+    # company overview
+    overview: 
+  positions:
+  - designation: Aprendizaje del coreano y diseño de la investigación
+    start: Sep 2021
+    end: Feb 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Curso intensivo de coreano.
+    - Diseño de herramientas de entrevista en colaboración con Mosim, socio de la investigación.
+    - Proceso de aprobación ética con la Universidad de Sussex.
+    - Revisión inicial de la bibliografía propia de Hansalim.
+  - designation: Revisión bibliográfica y entrevistas
+    start: Feb 2022
+    end: Aug 2022
+    responsibilities:
+    - Revisión de la literatura sobre el movimiento cooperativo coreano.
+    - Revisión de la bibliografía sobre cooperativas abiertas y nuevo cooperativismo.
+    - Grupo regular de lectura y debate con investigadores de Mosim.
+    - Conversaciones periódicas con investigadores coreanos independientes y colaboración en un trabajo académico conjunto.
+    - Entrevistas con miembros de cooperativas de consumo.
+- company:
+    name: Año 2
+    url: 
+    location: Corea
+    overview:
+  positions:
+  - designation: Entrevistas y redacción
+    start: Sep 2022
+    end: Dec 2022
+    responsibilities:
+    - Conversaciones periódicas con un investigador coreano independiente y colaboración en un trabajo académico conjunto.
+    - Entrevistas con empleados de la Federación Hansalim.
+    - Entrevistas con miembros de asociaciones regionales de productores.
+  - designation: Casos prácticos y redacción de artículos
+    start: Jan 2023
+    end: Jun 2023
+    responsibilities:
+    - Estudio de caso de Busan.
+    - Estudio de caso de Jeju.
+    - Escritura académica.
+    - Recopilación de relatos personales.
+    - Capítulos de los libros 1 - 4.
+    - Planificación de simposios.
+- company:
+    name: Año 3
+    url: 
+    location: UK
+    overview: 
+  positions:
+  - designation: Gira por Europa - creación de redes con cooperativistas, activistas e investigadores
+    start: Aug 2023
+    end: Nov 2023
+    responsibilities:
+    - "08.21-08.25 : (aún no se ha decidido) Stockholm or Berlin?"
+    - "08.25-09.01 : Copenhagen - [Københavns Fødevarefællesskab (KBHFF)](https://kbhff.dk/), [Roskilde Økologiske Fødevarefællesskab](https://roskildeff.wixsite.com/roeff)."
+    - "09.01-09.09 : Vienna - [Morgenrot](https://morgenrot.wien/)"
+    - "10.15-10.20 : Munich > Luxembourg"
+    - "10.20-10.25 : Leipzig - [Kola Leipzig](https://kolaleipzig.de/)"
+    - "10.25-10.29 : Bolzano > Verona > Florence - [AgroFair Italy](https://www.altromercato.it/)"
+    - "10.29-11.01 : Calabria"
+    - "11.01-11.04 : Sicily"
+  - designation: Escribir
+    start: Nov 2023
+    end: Dec 2023
+    responsibilities:
+    - Redacción de artículos académicos y capítulos de libros.
+  - designation: Redacción, seminarios, visitas
+    start: Jan 2024
+    end: May 2024
+    responsibilities:
+    - Escribir artículos académicos y capítulos de libros.
+    - Colaborar con académicos de la Universidad de Sussex. 
+    - Visitar cooperativas en el Reino Unido, Francia, Bélgica, Países Bajos y España.
+  - designation: Simposio y encuentro
+    start: Jun 2024
+    end: Jun 2024
+    responsibilities:
+    - "Encuentro de dos días en Viena que brinda a los miembros y representantes de Hansalim y Mosim reserachers la oportunidad de reunirse con académicos y profesionales del Reino Unido y Europa y acordar acciones de colaboración futura."
+    - "Simposio de un día en SPRU, Universidad de Sussex: 'Caminos solidarios hacia sistemas alimentarios transformadores.'"
+  - designation: Webinar
+    start: Aug 2024
+    end: Aug 2024
+    responsibilities:
+    - Seminario web de clausura.

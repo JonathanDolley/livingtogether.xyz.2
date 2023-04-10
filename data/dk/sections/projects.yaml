@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Outputs
+  name: Udgange
   id: projects
   enable: true
   weight: 15
@@ -27,7 +27,7 @@ projects:
   timeline: "March 2022 - Present"
   url:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Hansalim dans le contexte du mouvement coopératif coréen de 1910 à 2020. Discuter des valeurs et des caractéristiques du mouvement en relation avec les développements contemporains du "nouveau coopérativisme". 
+  summary: "Hansalim i forbindelse med den koreanske kooperative bevægelse fra 1910 til 2020. Diskussion af bevægelsens værdier og karakteristika i forbindelse med den moderne udvikling inden for 'ny kooperativitet.'"
   tags: ["academic"]
 
 - name: Paper 2
@@ -36,7 +36,7 @@ projects:
   timeline: "March 2023 - Present"
   url:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Explorer les opportunités et les défis rencontrés par Hansalim en tant que système alimentaire alternatif. Analyser les études de cas des différentes configurations du système alimentaire dans les diverses régions de Hansalim (Grand Séoul, Busan, Jeju).
+  summary: "Udforskning af muligheder og udfordringer for Hansalim som et alternativt fødevaresystem. Analyse af casestudier af forskellige fødevaresystemkonfigurationer i Hansalims forskellige regioner (Greater Seoul, Busan, Jeju)."
   tags: ["academic"]
 
 - name: Book
@@ -45,7 +45,7 @@ projects:
   timeline: "March 2023 - Present"
   url: "https://book.livingtogether.xyz"
   #url: ""
-  summary: Un livre sur Hansalim destiné à un lectorat populaire. Raconter l'histoire de Hansalim et présenter des témoignages de membres de la coopérative. L'analyse du modèle multipartite de Hansalim en tant que voie potentielle vers des systèmes alimentaires durables. Une discussion sur les liens entre l'éco-philosophie de Hansalim et les idées sur la transformation sociale au sens large.
+  summary: "En bog om Hansalim for den brede offentlighed. Fortæller historien om Hansalim og indeholder personlige historier fra medlemmer af kooperativet. Analyse af Hansalims model med flere interessenter som en potentiel vej til bæredygtige fødevaresystemer. Diskussion af forbindelserne mellem Hansalims økofilosofi og idéer om bredere social transformation."
   tags: ["popular"]
 
 - name: Symposium
@@ -53,23 +53,23 @@ projects:
   role: Organiser
   timeline: "June 2024"
   url: ""
-  summary: "Une conférence d'une journée pour les universitaires et les activistes à SPRU, Université du Sussex - 'Solidarity Pathways to Transformative Food Systems' (Voies de la solidarité vers des systèmes alimentaires transformateurs)."
+  summary: "En endagskonference for akademikere og aktivister på SPRU, Univeristy of Sussex - 'Solidarity Pathways to Transformative Food Systems'"
   tags: ["engagement"]
 
-- name: Rassemblement de Vienne
+- name: Mødet i Wien
   logo: /images/sections/projects/handshake-solid.svg
   role: Organiser
   timeline: "June 2024"
   url: ""
-  summary: "L'occasion pour les communautés de l'alimentation solidaire de toute l'Europe de se réunir pour un atelier de deux jours afin de nouer des relations, de partager des connaissances et de rencontrer des représentants de Hansalim et des chercheurs afin d'envisager une collaboration future."
+  summary: "En chance for solidariske fødevaresamfund i hele Europa til at opbygge relationer, dele viden og mødes med Hansalim-repræsentanter og forskere for at undersøge fremtidigt samarbejde."
   tags: ["engagement"]
 
-- name: Network
+- name: Netværk
   logo: /images/sections/projects/people-arrows-solid.svg
   role: Facilitator
-  timeline: "Beyond end of project"
+  timeline: "Efter projektets afslutning"
   url: ""
-  summary: "Créer un réseau UE-Corée de praticiens et de chercheurs dans le domaine de l'alimentation solidaire."
+  summary: Der skal etableres et netværk mellem EU og Korea af fagfolk og forskere inden for solidarisk mad.
   tags: ["engagement"]
 
 # - name: Nocode

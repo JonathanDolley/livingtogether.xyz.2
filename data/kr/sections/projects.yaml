@@ -56,12 +56,12 @@ projects:
   summary: "서섹스 대학교 SPRU의 학자 및 활동가를 위한 일일 컨퍼런스 - '변혁적 식품 시스템을 향한 연대 경로'"
   tags: ["engagement"]
 
-- name: Manchester Gathering
+- name: 비엔나 모임
   logo: /images/sections/projects/handshake-solid.svg
   role: Organiser
   timeline: "June 2024"
   url: ""
-  summary: 한살림 조합원과 대표들이 영국을 방문해 같은 생각을 가진 유럽 전역의 실천가, 학자들과 만날 수 있는 기회입니다.
+  summary: "유럽 전역의 연대먹거리 공동체들이 한자리에 모여 이틀간 워크숍을 통해 관계를 구축하고 지식을 공유하며 한살림 대표 및 연구자들과 만나 향후 협력을 모색하는 기회입니다."
   tags: ["engagement"]
 
 - name: Network
@@ -69,7 +69,7 @@ projects:
   role: Facilitator
   timeline: "Beyond end of project"
   url: ""
-  summary: 다 이해관계자 협력 실무자 및 연구자로 구성된 한-EU 네트워크를 구축합니다.
+  summary: "한-EU 연대 식품 실무자 및 연구자 네트워크를 구축합니다."
   tags: ["engagement"]
 
 # - name: Nocode

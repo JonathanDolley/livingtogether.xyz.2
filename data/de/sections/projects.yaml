@@ -56,12 +56,12 @@ projects:
   summary: "Eine eintägige Konferenz für Akademiker und Aktivisten an der SPRU, University of Sussex - 'Solidarity Pathways to Transformative Food Systems.'"
   tags: ["engagement"]
 
-- name: Versammlung in Manchester
+- name: Wiener Versammlung
   logo: /images/sections/projects/handshake-solid.svg
   role: Organiser
   timeline: "June 2024"
   url: ""
-  summary: Eine Gelegenheit für Mitglieder und Vertreter von Hansalim, das Vereinigte Königreich zu besuchen und sich mit gleichgesinnten Praktikern und Akademikern aus ganz Europa zu treffen.
+  summary: "Eine Gelegenheit für Solidaritätslebensmittelgemeinschaften aus ganz Europa, zu einem zweitägigen Workshop zusammenzukommen, um Beziehungen zu knüpfen, Wissen auszutauschen und mit Hansalim-Vertretern und -Forschern zusammenzukommen, um eine zukünftige Zusammenarbeit zu erkunden."
   tags: ["engagement"]
 
 - name: Netzwerk
@@ -69,7 +69,7 @@ projects:
   role: Facilitator
   timeline: "Über das Ende des Projekts hinaus"
   url: ""
-  summary: Initiierung eines Korea-EU-Netzes von kooperativen Praktikern und Forschern, die mehrere Interessengruppen vertreten.
+  summary: "Initiierung eines EU-Korea-Netzes von Praktikern und Forschern im Bereich der solidarischen Ernährung."
   tags: ["engagement"]
 
 # - name: Nocode

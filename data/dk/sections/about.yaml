@@ -1,6 +1,6 @@
 # section information
 section:
-  name: About
+  name: Om
   id: about
   enable: true
   weight: 1
@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Hansalim as a model for solidarity pathways towards sustainable food systems.
+designation: Hansalim som en model for solidariske veje mod bæredygtige fødevaresystemer.
 # your company information
 company:
   name: 
@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "This 3 year research project is a [Marie Skłodowska-Curie Action](https://ec.europa.eu/research/mariecurieactions/) - Global Fellowship led by [Dr Jonathan Dolley](https://profiles.sussex.ac.uk/p133363-jonathan-dolley) and supervised by the [University of Sussex](https://www.sussex.ac.uk/business-school/people-and-departments/spru) and the [Mosim and Salim Research Institute](http://mosim.or.kr/), Hansalim (South Korea). Through this project I am investigating the story of the Korean cooperative, [Hansalim](http://eng.hansalim.or.kr/), which grew from a small rice market on the outskirts of Seoul in 1986 to become one of the worlds largest organic food cooperatives with 750,000 members and producers. I want to find out what lessons their experience holds for other cooperative groups and movements in the UK and EU as we strive to transform our food systems away from industrialized models towards a fairer and more sustainable future."
+summary: "Dette treårige forskningsprojekt er et [Marie Skłodowska-Curie Action](https://ec.europa.eu/research/mariecurieactions/) - Global Fellowship, der ledes af [Dr. Jonathan Dolley](https://profiles.sussex.ac.uk/p133363-jonathan-dolley) og overvåges af [University of Sussex](https://www.sussex.ac.uk/business-school/people-and-departments/spru) og [Mosim and Salim Research Institute](http://mosim.or.kr/), Hansalim (Sydkorea). Gennem dette projekt undersøger jeg historien om det koreanske kooperativ [Hansalim](http://eng.hansalim.or.kr/), som voksede fra et lille rismarked i udkanten af Seoul i 1986 til at blive et af verdens største økologiske fødevarekooperativer med 750 000 medlemmer og producenter. Jeg vil gerne finde ud af, hvad deres erfaringer kan lære andre kooperative grupper og bevægelser i Storbritannien og EU af deres erfaringer, når vi stræber efter at ændre vores fødevaresystemer væk fra industrialiserede modeller og hen imod en mere retfærdig og bæredygtig fremtid."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -61,7 +61,7 @@ socialLinks:
 resourceLinks:
 - title: "E-Book"
   url: "https://book.livingtogether.xyz"
-- title: "Hansalim 2021 Report (english)" 
+- title: "Hansalim 2021 Bericht (englisch)" 
   url: "https://drive.google.com/file/d/1LUZxoPycHRt4-vKIowS65nj0Or3RUspu/view?usp=share_link"
 
 # Show your badges
@@ -69,52 +69,31 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: soft-skill-indicator
-  name: Sustainability
+  name: Bæredygtighed
   percentage: 100
   color: orange
 
 - type: soft-skill-indicator
-  name: Solidarity
+  name: Solidaritet
   percentage: 100
   color: yellow
 
 - type: soft-skill-indicator
-  name: Ecophilosophy
+  name: Økofilosofi
   percentage: 100
   color: "#82E0AA"
 
 - type: soft-skill-indicator
-  name: Cooperative
+  name: Kooperativ
   percentage: 100
   color: blue
 
 - type: soft-skill-indicator
-  name: Agroecology
+  name: Agroøkologi
   percentage: 100
   color: green
 
 - type: soft-skill-indicator
-  name: Inclusion
+  name: Inklusion
   percentage: 100
   color: pink
-
-# - type: soft-skill-indicator
-#   name: Leadership
-#   percentage: 85
-#   color: blue
-
-# - type: soft-skill-indicator
-#   name: Team Work
-#   percentage: 90
-#   color: yellow
-
-# - type: soft-skill-indicator
-#   name: Hard Working
-#   percentage: 85
-#   color: orange
-
-# you can also provide color code instead of the color name
-# - type: soft-skill-indicator
-#   name: Example 1
-#   percentage: 75
-#   color: "#00adb5"
