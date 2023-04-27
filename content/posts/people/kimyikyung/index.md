@@ -11,7 +11,7 @@ menu:
     weight: 40
 author:
   name: Yikyung Kim
-  image: #/images/author/kimyikyung.png
+  image: /images/author/kimyikyung.jpg
 math: false
 ---
 
