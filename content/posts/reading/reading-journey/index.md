@@ -13,6 +13,7 @@ author:
   image: /images/author/jdolley.png
 tags: ["Reading", "Books"]
 categories: ["Basic"]
+draft: true
 ---
 
 I want to offer a glimpse into my intellectual journey over the past few years of my research about Hansalim.
