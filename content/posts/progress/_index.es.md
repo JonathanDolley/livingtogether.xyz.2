@@ -1,8 +1,8 @@
 ---
-title: Progreso
+title: Progress
 menu:
   sidebar:
-    name: Progreso
+    name: Progress
     identifier: progress
     weight: 10
 ---
