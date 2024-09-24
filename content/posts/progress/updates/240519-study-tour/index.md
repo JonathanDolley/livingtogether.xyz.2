@@ -16,7 +16,7 @@ categories: ["Basic"]
 draft: false
 ---
 
-# Day 1 Hanok Guesthouse
+## Day 1
 
 On Sunday the 13th May Thomas Snellman and I drove the 20 km from my home in Yangju to Bonginsa Temple on the outskirts of Seoul. We were meeting up with Lars Laegreid, John Koeckert and Vilde Karoline who had traveled from Norway a few days earlier to enjoy a brief temple stay before we embarked on our whirlwind tour of Hansalim together.
 
@@ -24,13 +24,15 @@ Thomas is an organic farmer in Finland and the inventor of REKO, an ingeniously 
 
 So began our short but intense adventure together!
 
+### Hanok Guesthouse
+
 We headed first to a tiny little village called Baengmi-ri on the west coast to stay in a beautiful traditional Korean house (Hanok) which been the family home of the owner for generations. It was very special way to begin our journey; with a sense of the history and unique cultural heritage of Korea while enjoying the peaceful sounds of the forest around us.
 
 (Photo of Hanok)
 
-# Day 2 
+## Day 2 
 
-## 'Green Fields' Farming Coop
+### 'Green Fields' Farming Coop
 
 The next day our busy schedule began in earnest. We were woken early by the sunlight and sounds of grasshoppers and birds flooding through the traditional paper windows. After a fantastic breakfast cooked by Lars, we packed up our luggage and piled into the Starex people carrier which had been kindly loaned to us by North Seoul Hansalim.
 
@@ -40,7 +42,7 @@ They welcomed us with snacks and drinks made by their community, showed us a sho
 
 (Photo of Asan commmunity)
 
-## 'Mountain Field Sea' Community
+### 'Mountain Field Sea' Community
 
 Our next stop was the Sandeul Pada (Mountain Field Sea) Community of 17 farming households situated 2.5 hours drive southwards on the west coast at the foot of Byeonsan mountain. They are a relatively young community with an average of 10 years organic farming experience and mix of incomers and local people. They are a democratic self-governing community in which everyone takes turns in the official leadership roles on a two-year term basis.
 
@@ -54,9 +56,9 @@ That day, we spent the morning with some of the members of the farming community
 
 Following an afternoon interlude visiting a local temple and a pottery museum we met up with some of the community members again for dinner at a harbor-side restaurant. Suddenly one of the farmers started reciting poetry and then began a folk song. One thing led to another and we ended up singing karaoke in a local bar! Despite the language barrier we found ourselves singing, dancing and drinking together as if we had been friends our whole lives.
 
-# Day 3
+## Day 3
 
-## 'Snow Rain Mountain' Village
+### 'Snow Rain Mountain' Village
 
 Wishing we could stay one more day, we rose early, said goodbye to Byeonsan and our new friends and headed inland on a 3 hour drive to Nunbisan (Snow Rain Mountain) Village. Nunbisan is the founding community of Goesan Hansalim whose history goes back to 1968 when a Catholic priest, Father Clyde Davis, established the Goesan Cattle Breeders' association and demonstration farm in an effort to help the local community lift themselves out of poverty. The Goesan community grew over the years as a farmer-led village development and cooperative movement. In 1987 they joined Hansalim as one of the founding communities. Today, Nunbisan is community of 6 farming households producing eggs, grains, vegetables, plums and a range of snacks and confectionary made from their own eggs and wheat in a shared onsite processing facility. 
 
@@ -64,7 +66,7 @@ It is such a pretty village set in such picturesque surroundings and with a long
 
 (nunbisan photo)
 
-## Our seed Farm
+### Our seed Farm
 
 Our next stop was nearby and was, like Nunbisan Village, quite a famous and popular place to visit for Hansalim members, hosting thousands of visitors each year. It is called Woori Siat Nongjang (Our Seed Farm) and is a special research farm for the preservation of native seeds and the development of climate resilient varieties. Kang Joon-seok, who runs the farm, has spent many years practicing natural farming methods and encouraging greater biodiversity on the farm so that in recent years they have begun to see the return of native silk worm to their mulberry trees! We even saw some silkworm lava ourselves on the trees as we took a tour of the farm!
 
@@ -72,15 +74,15 @@ Our next stop was nearby and was, like Nunbisan Village, quite a famous and popu
 
 (Silkworm photo)
 
-# Day 4
+## Day 4
 
-## Anseong Logistics Centre
+### Anseong Logistics Centre
 
 On the third day we spent the morning touring the Anseong Logistics Centre which is on the outskirts of Seoul. The managing director gave us a short introduction and then showed us the packing and storage areas, bottle washing machine for reusable bottles, bakery, tofu factory, and solar panel roof. Many of the people who work in the warehouse and drive the delivery vehicles are members of an independent workers cooperative. The orders that come from Hansalim's 240 stores and through the website and mobile app are picked, packed and distributed from this central logistics facility all around the country.
 
 (Anseong photo)
 
-## Wonju - birthplace of Hansalim
+### Wonju - birthplace of Hansalim
 
 In the afternoon we headed to the city of Wonju which is the birthplace of Hansalim. It was here that Jang Il-soon, Park Jae-il, Bishop Ji Hak-soon, the poet Kim Ji-ha and many others spent years developing the local cooperative and credit union movement which coalesced in the 1980s into the Hansalim Life Movement. We arrived at the final session of a forum held in memory of Jang Il-soon who died in 1994 aged 66. It was deeply moving to see hundreds of people gathered to celebrate Jang Il-soon's spiritual philosophy and his legacy in the Hansalim movement. We briefly addressed the attendees to express our thanks for the welcome we had received from everyone in each of the different Hansalim communities we visited. Thomas and Lars described how inspiring it was to see such a community as Hansalim thriving and working for the values of peace, democracy and environmental stewardship.
 
@@ -90,9 +92,9 @@ During dinner we spent time with the current president of the Hansalim Federatio
 
 (Interview photo)
 
-# Day 5
+## Day 5
 
-## North Seoul Hansalim
+### North Seoul Hansalim
 
 On the last day we returned to Seoul to visit one of the oldest and most successful of Hansalim's stores. It is in Ssangmoon a neighbourhood in the north of Seoul and is run by the North Seoul Hansalim Life Coop. The cooperative's president and some of her colleagues and fellow directors met us at the store to give us a tour and answer our questions. John went on a shopping spree like a child in a sweet shop! Thomas and I marvelled at the beautiful design of the products and the welcoming layout of the store. One of the things that always suprises visitors is that the stores are so small. But when you start to look around the isles you begin to realise that, since it stocks just one type of everything rather than the multiple brands found in a conventional supermarket, it doesn't need to be very large even though it has everything you need.
 
@@ -100,7 +102,7 @@ On the last day we returned to Seoul to visit one of the oldest and most success
 
 After a simple lunch with the directors, exchanges of gifts, short speeches and warm invitations to return to Korea again and reciprocal invitations to visit Finland and Norway we reluctantly said goodbye and headed to the airport. We ended the intensive 5 day trip with many happy memories of making new friends having received fresh inspiration for our own endeavors.
 
-## Trip Video
+### Trip Video
 
 Here, as little treat for you, is a beautiful short video captured and edited by Vilde as memory of our wonderful visit to Hansalim.
 
