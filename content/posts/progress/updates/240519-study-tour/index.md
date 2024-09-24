@@ -28,7 +28,7 @@ So began our short but intense adventure together!
 
 We headed first to a tiny little village called Baengmi-ri on the west coast to stay in a beautiful traditional Korean house (Hanok) which been the family home of the owner for generations. It was very special way to begin our journey; with a sense of the history and unique cultural heritage of Korea while enjoying the peaceful sounds of the forest around us.
 
-(Photo of Hanok)
+{{< img src="/posts/progress/updates/240519-study-tour/Hanok.jpg" height="" width="100%" align="center" title="Hanok guest house" >}}
 
 ## Day 2 
 
@@ -40,7 +40,7 @@ A 1 hour drive south brought us to the outskirts of the small town of Asan where
 
 They welcomed us with snacks and drinks made by their community, showed us a short introduction video and answered our many questions. This was followed by a fascinating tour of their rice processing and logistics facilities. Then the moment all had been waiting for arrived when we were taken to the office canteen for a meal of braised pork prepared with the community's own produce. My scandinavian friends exclaimed it was one of the most delicious meals they had tasted in a long time and thanked the chef with a warm hug and high praises!
 
-(Photo of Asan commmunity)
+{{< img src="/posts/progress/updates/240519-study-tour/Asan-2.jpg" height="" width="100%" align="center" title="Asan community" >}}
 
 ### 'Mountain Field Sea' Community
 
@@ -52,7 +52,7 @@ The next day we woke to find ourselves right next to the beach with the most bre
 
 That day, we spent the morning with some of the members of the farming community hearing their stories and visiting their fields together. At the centre of a valley surrounded by low forested mountains we sat together under a huge old sacred village tree to discuss the challenges of organic farming as well as the joys of working as a community that was part of a larger purpose embodied in the Hansalim movement.
 
-(Photo of Byeonsan)
+{{< img src="/posts/progress/updates/240519-study-tour/Byeonsan_aerial.jpg" height="" width="100%" align="center" title="Byeonsan from the sky" >}}
 
 Following an afternoon interlude visiting a local temple and a pottery museum we met up with some of the community members again for dinner at a harbor-side restaurant. Suddenly one of the farmers started reciting poetry and then began a folk song. One thing led to another and we ended up singing karaoke in a local bar! Despite the language barrier we found ourselves singing, dancing and drinking together as if we had been friends our whole lives.
 
@@ -64,13 +64,13 @@ Wishing we could stay one more day, we rose early, said goodbye to Byeonsan and 
 
 It is such a pretty village set in such picturesque surroundings and with a long history of organic farming that it has become a popular destination for Hansalim consumer members to visit. The community building houses not only their administrative office and meeting rooms but also a kitchen and large community dining room as well as a few guest rooms for visitors to stay overnight. As we said goodbye after a delicious lunch the community representative gave us each big bags of snacks freshly made at Nunbisan to take with us.
 
-(nunbisan photo)
+{{< img src="/posts/progress/updates/240519-study-tour/Nunbisan-1.jpg" height="" width="100%" align="center" title="Byeonsan from the sky" >}}
 
 ### Our seed Farm
 
 Our next stop was nearby and was, like Nunbisan Village, quite a famous and popular place to visit for Hansalim members, hosting thousands of visitors each year. It is called Woori Siat Nongjang (Our Seed Farm) and is a special research farm for the preservation of native seeds and the development of climate resilient varieties. Kang Joon-seok, who runs the farm, has spent many years practicing natural farming methods and encouraging greater biodiversity on the farm so that in recent years they have begun to see the return of native silk worm to their mulberry trees! We even saw some silkworm lava ourselves on the trees as we took a tour of the farm!
 
-(Our seed farm photo)
+{{< img src="/posts/progress/updates/240519-study-tour/Our-seed-farm.jpg" height="" width="100%" align="center" title="Kang Joon-seok of Our Seed Farm" >}}
 
 (Silkworm photo)
 
@@ -80,17 +80,17 @@ Our next stop was nearby and was, like Nunbisan Village, quite a famous and popu
 
 On the third day we spent the morning touring the Anseong Logistics Centre which is on the outskirts of Seoul. The managing director gave us a short introduction and then showed us the packing and storage areas, bottle washing machine for reusable bottles, bakery, tofu factory, and solar panel roof. Many of the people who work in the warehouse and drive the delivery vehicles are members of an independent workers cooperative. The orders that come from Hansalim's 240 stores and through the website and mobile app are picked, packed and distributed from this central logistics facility all around the country.
 
-(Anseong photo)
+{{< img src="/posts/progress/updates/240519-study-tour/Anseong_aerial.jpg" height="" width="100%" align="center" title="Anseong Logistics Centre" >}}
 
 ### Wonju - birthplace of Hansalim
 
 In the afternoon we headed to the city of Wonju which is the birthplace of Hansalim. It was here that Jang Il-soon, Park Jae-il, Bishop Ji Hak-soon, the poet Kim Ji-ha and many others spent years developing the local cooperative and credit union movement which coalesced in the 1980s into the Hansalim Life Movement. We arrived at the final session of a forum held in memory of Jang Il-soon who died in 1994 aged 66. It was deeply moving to see hundreds of people gathered to celebrate Jang Il-soon's spiritual philosophy and his legacy in the Hansalim movement. We briefly addressed the attendees to express our thanks for the welcome we had received from everyone in each of the different Hansalim communities we visited. Thomas and Lars described how inspiring it was to see such a community as Hansalim thriving and working for the values of peace, democracy and environmental stewardship.
 
-(Forum photo)
+{{< img src="/posts/progress/updates/240519-study-tour/Wonju-1.jpg" height="" width="100%" align="center" title="Wonju Forum" >}}
 
 During dinner we spent time with the current president of the Hansalim Federation, Kwon Ok-ja, along with the former CEO, Yoon Hyun-geun and a group of directors and employees of Wonju Hansalim. Finally, after dinner in a nearby cafe, we spent a very memorable hour with Yoon Hyun-geun recording an interview about Hansalim's philosophy and the future of the movement.
 
-(Interview photo)
+{{< img src="/posts/progress/updates/240519-study-tour/Wonju-2.jpg" height="" width="100%" align="center" title="Thomas Snellman and Kwon Ok-ja" >}}
 
 ## Day 5
 
@@ -98,7 +98,7 @@ During dinner we spent time with the current president of the Hansalim Federatio
 
 On the last day we returned to Seoul to visit one of the oldest and most successful of Hansalim's stores. It is in Ssangmoon a neighbourhood in the north of Seoul and is run by the North Seoul Hansalim Life Coop. The cooperative's president and some of her colleagues and fellow directors met us at the store to give us a tour and answer our questions. John went on a shopping spree like a child in a sweet shop! Thomas and I marvelled at the beautiful design of the products and the welcoming layout of the store. One of the things that always suprises visitors is that the stores are so small. But when you start to look around the isles you begin to realise that, since it stocks just one type of everything rather than the multiple brands found in a conventional supermarket, it doesn't need to be very large even though it has everything you need.
 
-(photo of shop interior)
+{{< img src="/posts/progress/updates/240519-study-tour/North-Seoul.jpg" height="" width="100%" align="center" title="North Seoul Hansalim" >}}
 
 After a simple lunch with the directors, exchanges of gifts, short speeches and warm invitations to return to Korea again and reciprocal invitations to visit Finland and Norway we reluctantly said goodbye and headed to the airport. We ended the intensive 5 day trip with many happy memories of making new friends having received fresh inspiration for our own endeavors.
 
