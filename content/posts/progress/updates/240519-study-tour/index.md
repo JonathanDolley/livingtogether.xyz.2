@@ -90,7 +90,7 @@ In the afternoon we headed to the city of Wonju which is the birthplace of Hansa
 
 During dinner we spent time with the current president of the Hansalim Federation, Kwon Ok-ja, along with the former CEO, Yoon Hyun-geun and a group of directors and employees of Wonju Hansalim. Finally, after dinner in a nearby cafe, we spent a very memorable hour with Yoon Hyun-geun recording an interview about Hansalim's philosophy and the future of the movement.
 
-{{< img src="/posts/progress/updates/240519-study-tour/Wonju-2.jpg" height="" width="100%" align="center" title="Thomas Snellman and Kwon Ok-ja" >}}
+{{< img src="/posts/progress/updates/240519-study-tour/Wonju-2.jpg" height="" width="100%" align="center" title="Wonju Forum" >}}
 
 ## Day 5
 
