@@ -20,7 +20,9 @@ draft: false
 
 On Sunday the 13th May Thomas Snellman and I drove the 20 km from my home in Yangju to Bonginsa Temple on the outskirts of Seoul. We were meeting up with Lars Laegreid, John Koeckert and Vilde Karoline who had traveled from Norway a few days earlier to enjoy a brief temple stay before we embarked on our whirlwind tour of Hansalim together.
 
-Thomas is an organic farmer in Finland and the inventor of REKO, an ingeniously simple concept that has grown into a global movement of local self-organised facebook communities who enable direct sales between farmers and consumers. He came to hear about Hansalim from his friend Andrew McMillion, a permaculture farmer in Norway and a mutual friend of Lars and John. While I was planning the study visit to Hansalim with John and Lars, Andrew encouraged Thomas to join in. A few weeks later, I met Thomas for the first time at Incheon airport and brought him to stay at my home before we headed off the next day to meet the others at the temple.
+Thomas is an organic farmer in Finland and the inventor of REKO[^1], an ingeniously simple concept that has grown into a global movement of local self-organised facebook communities who enable direct sales between farmers and consumers. He came to hear about Hansalim from his friend Andrew McMillion, a permaculture farmer in Norway and a mutual friend of Lars and John. While I was planning the study visit to Hansalim with John and Lars, Andrew encouraged Thomas to join in. A few weeks later, I met Thomas for the first time at Incheon airport and brought him to stay at my home before we headed off the next day to meet the others at the temple.
+
+[^1]: https://www.pedersore.fi/assets/Dokumentarkiv/Om-Pedersoere/REKO/Reko_engelska.pdf
 
 So began our short but intense adventure together!
 
@@ -70,7 +72,7 @@ It is such a pretty village set in such picturesque surroundings and with a long
 
 ### Our seed Farm
 
-Our next stop was nearby and was, like Nunbisan Village, quite a famous and popular place to visit for Hansalim members, hosting thousands of visitors each year. It is called Woori Siat Nongjang (Our Seed Farm) and is a special research farm for the preservation of native seeds and the development of climate resilient varieties. Kang Joon-seok, who runs the farm, has spent many years practicing natural farming methods and encouraging greater biodiversity on the farm so that in recent years they have begun to see the return of native silk worm to their mulberry trees! We even saw some silkworm lava ourselves on the trees as we took a tour of the farm!
+Our next stop was nearby and was, like Nunbisan Village, quite a famous and popular place to visit for Hansalim members, hosting thousands of visitors each year. It is called Woori Siat Nongjang (Our Seed Farm) and is a special research farm for the preservation of native seeds and the development of climate resilient varieties. Ahn Sang-hui, who runs the farm, has spent many years practicing natural farming methods and encouraging greater biodiversity on the farm so that in recent years they have begun to see the return of native silk worm to their mulberry trees! We even saw some silkworm lava ourselves on the trees as we took a tour of the farm!
 
 {{< img src="/posts/progress/updates/240519-study-tour/Our-seed-farm.jpg" height="" width="100%" align="center" title="Kang Joon-seok of Our Seed Farm" >}}
 
