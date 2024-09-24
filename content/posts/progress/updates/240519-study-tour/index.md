@@ -108,5 +108,5 @@ After a simple lunch with the directors, exchanges of gifts, short speeches and 
 
 Here, as little treat for you, is a beautiful short video captured and edited by Vilde as memory of our wonderful visit to Hansalim.
 
-<iframe width="100%" height="" src="https://www.youtube.com/embed/QV1zW5fuTiw?si=u8w7bstQ4qjR5nWS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QV1zW5fuTiw?si=u8w7bstQ4qjR5nWS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
