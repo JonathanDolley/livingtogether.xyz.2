@@ -42,6 +42,8 @@ They welcomed us with snacks and drinks made by their community, showed us a sho
 
 {{< img src="/posts/progress/updates/240519-study-tour/Asan-2.jpg" height="" width="100%" align="center" title="Asan community" >}}
 
+{{< img src="/posts/progress/updates/240519-study-tour/Asan-1.jpg" height="" width="100%" align="center" title="Asan community" >}}
+
 ### 'Mountain Field Sea' Community
 
 Our next stop was the Sandeul Pada (Mountain Field Sea) Community of 17 farming households situated 2.5 hours drive southwards on the west coast at the foot of Byeonsan mountain. They are a relatively young community with an average of 10 years organic farming experience and mix of incomers and local people. They are a democratic self-governing community in which everyone takes turns in the official leadership roles on a two-year term basis.
@@ -106,5 +108,5 @@ After a simple lunch with the directors, exchanges of gifts, short speeches and 
 
 Here, as little treat for you, is a beautiful short video captured and edited by Vilde as memory of our wonderful visit to Hansalim.
 
-(youtube link)
+<iframe width="100%" height="" src="https://www.youtube.com/embed/QV1zW5fuTiw?si=u8w7bstQ4qjR5nWS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
