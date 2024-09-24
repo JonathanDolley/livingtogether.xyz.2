@@ -19,7 +19,7 @@ On Thursday the 4th July 2024 we held a webinar hosted in Vienna to introduce pe
 
 The first presentation was given by Ok-ja Kwon, the current president and chair of directors of the Hansalim Federation. She gave us a brief history of Hansalim, what it stands for and what it means to her.
 
-<iframe width="100%" height="" src="https://www.youtube.com/embed/hQUodRR5UWo?si=OqvFz6SSBWkfzcCR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/hQUodRR5UWo?si=OqvFz6SSBWkfzcCR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Dr Miseong Cho gave the second talk about how the Hansalim Movement has enabled transformative learning among its members.
 
